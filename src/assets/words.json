@@ -1,0 +1,4356 @@
+[
+  {
+    "english": "a pity",
+    "partOfSpeech": "phr",
+    "phonetics": "/ ə ˈ p ɪ ti/",
+    "czech": "škoda, politováníhodný",
+    "unit": 1
+  },
+  {
+    "english": "a shame",
+    "partOfSpeech": "phr",
+    "phonetics": "/ ə ʃ e ɪ m/",
+    "czech": "ostuda, škoda",
+    "unit": 1
+  },
+  {
+    "english": "advice",
+    "partOfSpeech": "n",
+    "phonetics": "/ ə d ˈ va ɪ s/",
+    "czech": "rada",
+    "unit": 1
+  },
+  {
+    "english": "ambitious",
+    "partOfSpeech": "adj",
+    "phonetics": "/ æ m ˈ b ɪʃə s/",
+    "czech": "ctižádostivý",
+    "unit": 1
+  },
+  {
+    "english": "ankle",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈæŋ kl/",
+    "czech": "kotník",
+    "unit": 1
+  },
+  {
+    "english": "appearance",
+    "partOfSpeech": "n",
+    "phonetics": "/ əˈ p ɪə r ə ns/",
+    "czech": "vzhled",
+    "unit": 1
+  },
+  {
+    "english": "astonishing",
+    "partOfSpeech": "adj",
+    "phonetics": "/ əˈ st ɒ n ɪʃɪŋ /",
+    "czech": "ohromující, zarážející",
+    "unit": 1
+  },
+  {
+    "english": "audition",
+    "partOfSpeech": "n",
+    "phonetics": "/ ɔːˈ d ɪʃ n/",
+    "czech": "konkurs",
+    "unit": 1
+  },
+  {
+    "english": "bad-tempered",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌ b æ d  ˈ temp ə d/",
+    "czech": "nevrlý",
+    "unit": 1
+  },
+  {
+    "english": "bored",
+    "partOfSpeech": "adj",
+    "phonetics": "/b ɔː d/",
+    "czech": "znuděný",
+    "unit": 1
+  },
+  {
+    "english": "boring",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ b ɔː r ɪŋ /",
+    "czech": "nudný",
+    "unit": 1
+  },
+  {
+    "english": "brand-new",
+    "partOfSpeech": "adj",
+    "phonetics": "/br æ nd  ˈ nju ː /",
+    "czech": "zbrusu nový",
+    "unit": 1
+  },
+  {
+    "english": "calm",
+    "partOfSpeech": "adj",
+    "phonetics": "/k ɑː m/",
+    "czech": "klidný",
+    "unit": 1
+  },
+  {
+    "english": "caring",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ ke ə r ɪŋ /",
+    "czech": "starostlivý",
+    "unit": 1
+  },
+  {
+    "english": "challenging",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ t ʃæ l ɪ nd ʒɪŋ /",
+    "czech": "náročný",
+    "unit": 1
+  },
+  {
+    "english": "charming",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ t ʃɑː m ɪŋ /",
+    "czech": "rozkošný",
+    "unit": 1
+  },
+  {
+    "english": "cheerful",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ t ʃɪə fl/",
+    "czech": "veselý",
+    "unit": 1
+  },
+  {
+    "english": "cloudy",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ kla ʊ di/",
+    "czech": "zamračený",
+    "unit": 1
+  },
+  {
+    "english": "comfortable",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ k ʌ mft ə bl/",
+    "czech": "pohodlný",
+    "unit": 1
+  },
+  {
+    "english": "condition",
+    "partOfSpeech": "n",
+    "phonetics": "/k ə n ˈ d ɪʃ n/",
+    "czech": "stav",
+    "unit": 1
+  },
+  {
+    "english": "cosy",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ k əʊ zi/",
+    "czech": "útulný",
+    "unit": 1
+  },
+  {
+    "english": "cottage",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ k ɒ t ɪ d ʒ /",
+    "czech": "chalupa",
+    "unit": 1
+  },
+  {
+    "english": "creative",
+    "partOfSpeech": "adj",
+    "phonetics": "/kri ˈ e ɪ t ɪ v/",
+    "czech": "tvořivý",
+    "unit": 1
+  },
+  {
+    "english": "crowded",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ kra ʊ d ɪ d/",
+    "czech": "nabitý (lidmi), přecpaný",
+    "unit": 1
+  },
+  {
+    "english": "curious",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ kj ʊə ri ə s/",
+    "czech": "zvědavý",
+    "unit": 1
+  },
+  {
+    "english": "curly",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ k ɜː li/",
+    "czech": "kudrnatý",
+    "unit": 1
+  },
+  {
+    "english": "cut off",
+    "partOfSpeech": "phr v",
+    "phonetics": "/k ʌ t  ˈɒ f/",
+    "czech": "odříznutý",
+    "unit": 1
+  },
+  {
+    "english": "definite",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ def ɪ n ə t/",
+    "czech": "konkrétní, přesný",
+    "unit": 1
+  },
+  {
+    "english": "definitely",
+    "partOfSpeech": "adv",
+    "phonetics": "/ ˈ def ɪ n ə tli/",
+    "czech": "určitě",
+    "unit": 1
+  },
+  {
+    "english": "delicious",
+    "partOfSpeech": "adj",
+    "phonetics": "/d ɪˈ l ɪʃə s/",
+    "czech": "vynikající, výtečný (pokrm)",
+    "unit": 1
+  },
+  {
+    "english": "disappointed",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌ d ɪ s əˈ p ɔɪ nt ɪ d/",
+    "czech": "zklamaný",
+    "unit": 1
+  },
+  {
+    "english": "disguise",
+    "partOfSpeech": "n",
+    "phonetics": "/d ɪ s ˈɡ a ɪ z/",
+    "czech": "převlek",
+    "unit": 1
+  },
+  {
+    "english": "documentary",
+    "partOfSpeech": "n",
+    "phonetics": "/ˌdɒkjʊˈmɛnt(ə)ri /",
+    "czech": "dokument (TV pořad)",
+    "unit": 1
+  },
+  {
+    "english": "dominant",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ d ɒ m ɪ n ə nt/",
+    "czech": "dominantní",
+    "unit": 1
+  },
+  {
+    "english": "drive someone crazy",
+    "partOfSpeech": "phr",
+    "phonetics": "/ ˌ dra ɪ v s ʌ mw ʌ n  ˈ kre ɪ zi/",
+    "czech": "přivádět (někoho) k šílenství",
+    "unit": 1
+  },
+  {
+    "english": "easy-going",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌ i ː zi  ˈɡəʊɪŋ /",
+    "czech": "bezstarostný",
+    "unit": 1
+  },
+  {
+    "english": "eccentric",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ɪ k ˈ sentr ɪ k/",
+    "czech": "excentrický, výstřední",
+    "unit": 1
+  },
+  {
+    "english": "enormous",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ɪˈ n ɔː m ə s/",
+    "czech": "ohromný",
+    "unit": 1
+  },
+  {
+    "english": "enthusiasm",
+    "partOfSpeech": "n",
+    "phonetics": "/ ɪ n ˈθ ju ː zi æ z ə m/",
+    "czech": "nadšení, entusiasmus",
+    "unit": 1
+  },
+  {
+    "english": "escape",
+    "partOfSpeech": "n",
+    "phonetics": "/ ɪˈ ske ɪ p/",
+    "czech": "uprchnout, uniknout",
+    "unit": 1
+  },
+  {
+    "english": "exciting",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ɪ k ˈ sa ɪ t ɪŋ /",
+    "czech": "vzrušující",
+    "unit": 1
+  },
+  {
+    "english": "exhausting",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ɪɡˈzɔː st ɪŋ /",
+    "czech": "vyčerpávající",
+    "unit": 1
+  },
+  {
+    "english": "fail",
+    "partOfSpeech": "v",
+    "phonetics": "/fe ɪ l/",
+    "czech": "neuspět",
+    "unit": 1
+  },
+  {
+    "english": "fair enough",
+    "partOfSpeech": "phr",
+    "phonetics": "/fe ə (r)  ɪˈ n ʌ f/",
+    "czech": "v pořádku",
+    "unit": 1
+  },
+  {
+    "english": "famous",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ fe ɪ m ə s/",
+    "czech": "slavný",
+    "unit": 1
+  },
+  {
+    "english": "fight like cat and dog",
+    "partOfSpeech": "idiom",
+    "phonetics": "/fa ɪ t la ɪ k k æ t  ə nd d ɒɡ /",
+    "czech": "být na sebe jak pes a kočka",
+    "unit": 1
+  },
+  {
+    "english": "flatmates",
+    "partOfSpeech": "n pl",
+    "phonetics": "/ ˈ fl æ tme ɪ ts/",
+    "czech": "spolubydlící",
+    "unit": 1
+  },
+  {
+    "english": "generous",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ d ʒ en ə r ə s/",
+    "czech": "štědrý",
+    "unit": 1
+  },
+  {
+    "english": "good-looking",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ɡʊ d  ˈ l ʊ k ɪŋ /",
+    "czech": "hezký",
+    "unit": 1
+  },
+  {
+    "english": "groceries",
+    "partOfSpeech": "n pl",
+    "phonetics": "/ ˈɡ r əʊ s ə ris/",
+    "czech": "potraviny",
+    "unit": 1
+  },
+  {
+    "english": "hard-working",
+    "partOfSpeech": "adj",
+    "phonetics": "/h ɑː d  ˈ w ɜː k ɪŋ /",
+    "czech": "pracovitý",
+    "unit": 1
+  },
+  {
+    "english": "heal",
+    "partOfSpeech": "v",
+    "phonetics": "/hi ː l/",
+    "czech": "(z)hojit (se), uzdravit",
+    "unit": 1
+  },
+  {
+    "english": "height",
+    "partOfSpeech": "n",
+    "phonetics": "/ha ɪ t/",
+    "czech": "výška",
+    "unit": 1
+  },
+  {
+    "english": "home-made",
+    "partOfSpeech": "adj",
+    "phonetics": "/h əʊ m  ˈ me ɪ d/",
+    "czech": "domácí",
+    "unit": 1
+  },
+  {
+    "english": "honest",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈɒ n ɪ st/",
+    "czech": "upřímný, čestný",
+    "unit": 1
+  },
+  {
+    "english": "imitate",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈɪ m ɪ te ɪ t/",
+    "czech": "napodobovat",
+    "unit": 1
+  },
+  {
+    "english": "imprisoned",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ɪ m ˈ pr ɪ znd/",
+    "czech": "uvězněný",
+    "unit": 1
+  },
+  {
+    "english": "in common",
+    "partOfSpeech": "phr",
+    "phonetics": "/ ɪ n  ˈ k ɒ m ə n/",
+    "czech": "společný",
+    "unit": 1
+  },
+  {
+    "english": "insecure",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌɪ ns ɪˈ kj ʊə (r)/",
+    "czech": "nesebejistý",
+    "unit": 1
+  },
+  {
+    "english": "interested",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈɪ ntr ə st ɪ d/",
+    "czech": "zajímat se",
+    "unit": 1
+  },
+  {
+    "english": "killer",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ k ɪ l ə (r)/",
+    "czech": "vrah",
+    "unit": 1
+  },
+  {
+    "english": "kindness",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ ka ɪ ndn ə s/",
+    "czech": "laskavost",
+    "unit": 1
+  },
+  {
+    "english": "mask",
+    "partOfSpeech": "n",
+    "phonetics": "/mɑ:sk/",
+    "czech": "maska",
+    "unit": 1
+  },
+  {
+    "english": "mature",
+    "partOfSpeech": "adj",
+    "phonetics": "/m əˈ t ʃʊə (r)/",
+    "czech": "vzrostlý, zralý",
+    "unit": 1
+  },
+  {
+    "english": "memorable",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ mem ə r ə bl/",
+    "czech": "nezapomenutelný",
+    "unit": 1
+  },
+  {
+    "english": "messy",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ mesi/",
+    "czech": "zaneřáděný, neuspořádaný",
+    "unit": 1
+  },
+  {
+    "english": "middle-aged",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ m ɪ dl e ɪ d ʒ d/",
+    "czech": "středního věku",
+    "unit": 1
+  },
+  {
+    "english": "moody",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ mu ː di/",
+    "czech": "mrzutý, náladový",
+    "unit": 1
+  },
+  {
+    "english": "naïve",
+    "partOfSpeech": "adj",
+    "phonetics": "/na ɪˈ i ː v/",
+    "czech": "naivní",
+    "unit": 1
+  },
+  {
+    "english": "needs decorating",
+    "partOfSpeech": "phr",
+    "phonetics": "/ni ː dz  ˈ dek ə re ɪ t ɪŋ /",
+    "czech": "potřebuje vymalovat",
+    "unit": 1
+  },
+  {
+    "english": "noisy",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈnɔɪz i/",
+    "czech": "hlučný",
+    "unit": 1
+  },
+  {
+    "english": "old-fashioned",
+    "partOfSpeech": "adj",
+    "phonetics": "/ əʊ ld  ˈ f æʃ nd/",
+    "czech": "staromódní",
+    "unit": 1
+  },
+  {
+    "english": "overcrowded",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌəʊ v əˈ kra ʊ d ɪ d/",
+    "czech": "přecpaný (lidmi)",
+    "unit": 1
+  },
+  {
+    "english": "passionate",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ p æʃə n ə t/",
+    "czech": "zanícený",
+    "unit": 1
+  },
+  {
+    "english": "patient",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ pe ɪʃ nt/",
+    "czech": "trpělivý",
+    "unit": 1
+  },
+  {
+    "english": "personality",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ p ɜː s əˈ n æ l ə ti/",
+    "czech": "osobnost",
+    "unit": 1
+  },
+  {
+    "english": "pessimistic",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌ pes ɪˈ m ɪ st ɪ k/",
+    "czech": "pesimistický",
+    "unit": 1
+  },
+  {
+    "english": "possession",
+    "partOfSpeech": "n",
+    "phonetics": "/p əˈ ze ʃ n/",
+    "czech": "majetek",
+    "unit": 1
+  },
+  {
+    "english": "pretty",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ pr ɪ ti/",
+    "czech": "docela, dost",
+    "unit": 1
+  },
+  {
+    "english": "proud",
+    "partOfSpeech": "adj",
+    "phonetics": "/pra ʊ d/",
+    "czech": "hrdý",
+    "unit": 1
+  },
+  {
+    "english": "prove",
+    "partOfSpeech": "v",
+    "phonetics": "/pru ː v/",
+    "czech": "dokázat",
+    "unit": 1
+  },
+  {
+    "english": "raise",
+    "partOfSpeech": "v",
+    "phonetics": "/re ɪ z/",
+    "czech": "vychovat",
+    "unit": 1
+  },
+  {
+    "english": "reclusive",
+    "partOfSpeech": "adj",
+    "phonetics": "/r ɪˈ klu ː s ɪ v/",
+    "czech": "samotářský",
+    "unit": 1
+  },
+  {
+    "english": "refuse",
+    "partOfSpeech": "v",
+    "phonetics": "/r ɪˈ fju ː z/",
+    "czech": "odmítnout",
+    "unit": 1
+  },
+  {
+    "english": "relaxing",
+    "partOfSpeech": "adj",
+    "phonetics": "/r ɪˈ l æ ks ɪŋ /",
+    "czech": "odpočinkový",
+    "unit": 1
+  },
+  {
+    "english": "reliable",
+    "partOfSpeech": "adj",
+    "phonetics": "/r ɪˈ la ɪə bl/",
+    "czech": "spolehlivý",
+    "unit": 1
+  },
+  {
+    "english": "reserved",
+    "partOfSpeech": "adj",
+    "phonetics": "/r ɪˈzɜː vd/",
+    "czech": "odměřený",
+    "unit": 1
+  },
+  {
+    "english": "responsible",
+    "partOfSpeech": "adj",
+    "phonetics": "/r ɪˈ sp ɒ ns ə bl/",
+    "czech": "zodpovědný",
+    "unit": 1
+  },
+  {
+    "english": "row",
+    "partOfSpeech": "n",
+    "phonetics": "/raʊ/",
+    "czech": "hádka",
+    "unit": 1
+  },
+  {
+    "english": "scary",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ ske ə ri/",
+    "czech": "strašidelný",
+    "unit": 1
+  },
+  {
+    "english": "second-hand",
+    "partOfSpeech": "adj",
+    "phonetics": "/sek ə nd  ˈ h æ nd/",
+    "czech": "z druhé ruky, ojeté",
+    "unit": 1
+  },
+  {
+    "english": "security officer",
+    "partOfSpeech": "n",
+    "phonetics": "/s ɪˈ kj ʊə r ə ti  ˌɒ f ɪ s ə (r)/",
+    "czech": "bezpečnostní pracovník",
+    "unit": 1
+  },
+  {
+    "english": "see eye to eye",
+    "partOfSpeech": "idiom",
+    "phonetics": "/ ˌ si ː  a ɪ  tu  ˈ a ɪ /",
+    "czech": "shodnout se",
+    "unit": 1
+  },
+  {
+    "english": "sense of humour",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ sens  ə v  ˈ hju ː m ə (r)/",
+    "czech": "smysl pro humor",
+    "unit": 1
+  },
+  {
+    "english": "sensitive",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ sens ə t ɪ v/",
+    "czech": "citlivý",
+    "unit": 1
+  },
+  {
+    "english": "shocked",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ʃɒ kt/",
+    "czech": "zděšený, v šoku",
+    "unit": 1
+  },
+  {
+    "english": "shocking",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈʃɒ k ɪŋ /",
+    "czech": "šokující",
+    "unit": 1
+  },
+  {
+    "english": "shy",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ʃ a ɪ /",
+    "czech": "nesmělý, stydlivý",
+    "unit": 1
+  },
+  {
+    "english": "smart-casual",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌ sm ɑː t  ˈ k æʒ u ə l/",
+    "czech": "ležérní",
+    "unit": 1
+  },
+  {
+    "english": "sociable",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ s əʊʃə bl/",
+    "czech": "společenský",
+    "unit": 1
+  },
+  {
+    "english": "spicy",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ spa ɪ si/",
+    "czech": "kořeněný, pikantní",
+    "unit": 1
+  },
+  {
+    "english": "spoilt",
+    "partOfSpeech": "adj",
+    "phonetics": "/sp ɔɪ lt/",
+    "czech": "rozmazlený",
+    "unit": 1
+  },
+  {
+    "english": "strange",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ stre ɪ nd ʒə (r)/",
+    "czech": "podivný",
+    "unit": 1
+  },
+  {
+    "english": "strike",
+    "partOfSpeech": "n",
+    "phonetics": "/stra ɪ k/",
+    "czech": "stávka",
+    "unit": 1
+  },
+  {
+    "english": "stunning",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ st ʌ n ɪŋ /",
+    "czech": "úžasný, nádherný",
+    "unit": 1
+  },
+  {
+    "english": "stylish",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ sta ɪ l ɪʃ /",
+    "czech": "elegantní",
+    "unit": 1
+  },
+  {
+    "english": "talented",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ t æ l ə nt ɪ d/",
+    "czech": "talentovaný",
+    "unit": 1
+  },
+  {
+    "english": "thoughtful",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈθɔː tfʊl/",
+    "czech": "pozorný",
+    "unit": 1
+  },
+  {
+    "english": "thrilled",
+    "partOfSpeech": "adj",
+    "phonetics": "/ θ r ɪ ld/",
+    "czech": "šťastný, potěšený",
+    "unit": 1
+  },
+  {
+    "english": "thrilling",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈθ r ɪ l ɪŋ /",
+    "czech": "vzrušující",
+    "unit": 1
+  },
+  {
+    "english": "tired",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ ta ɪə d/",
+    "czech": "unavený",
+    "unit": 1
+  },
+  {
+    "english": "tiring",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ ta ɪə r ɪŋ /",
+    "czech": "únavný",
+    "unit": 1
+  },
+  {
+    "english": "tribe",
+    "partOfSpeech": "n",
+    "phonetics": "/tra ɪ b/",
+    "czech": "kmen",
+    "unit": 1
+  },
+  {
+    "english": "trust",
+    "partOfSpeech": "v",
+    "phonetics": "/tr ʌ st/",
+    "czech": "důvěřovat",
+    "unit": 1
+  },
+  {
+    "english": "twinkly",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ tw ɪŋ ki/",
+    "czech": "jiskřivý",
+    "unit": 1
+  },
+  {
+    "english": "twist",
+    "partOfSpeech": "v",
+    "phonetics": "/tw ɪ st/",
+    "czech": "podvrtnout si",
+    "unit": 1
+  },
+  {
+    "english": "tyrannical",
+    "partOfSpeech": "adj",
+    "phonetics": "/t ɪˈ r æ n ɪ kl/",
+    "czech": "tyranský",
+    "unit": 1
+  },
+  {
+    "english": "upbringing",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈʌ pbr ɪŋɪŋ /",
+    "czech": "výchova",
+    "unit": 1
+  },
+  {
+    "english": "ups and downs",
+    "partOfSpeech": "phr",
+    "phonetics": "/ ˌʌ ps  ə nd  ˈ da ʊ nz/",
+    "czech": "dobré i zlé časy, zdary a nezdary",
+    "unit": 1
+  },
+  {
+    "english": "wallet",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ w ɒ l ɪ t/",
+    "czech": "peněženka",
+    "unit": 1
+  },
+  {
+    "english": "wavy",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ we ɪ vi/",
+    "czech": "vlnitý",
+    "unit": 1
+  },
+  {
+    "english": "weird",
+    "partOfSpeech": "adj",
+    "phonetics": "/w ɪə d/",
+    "czech": "divný",
+    "unit": 1
+  },
+  {
+    "english": "welfare money",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ welfe ə (r)  ˌ m ʌ ni/",
+    "czech": "sociální dávky",
+    "unit": 1
+  },
+  {
+    "english": "well-behaved",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌ wel b ɪˈ he ɪ vd/",
+    "czech": "způsobný",
+    "unit": 1
+  },
+  {
+    "english": "well-dressed",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌ wel  ˈ dresd/",
+    "czech": "dobře oblečený",
+    "unit": 1
+  },
+  {
+    "english": "yell",
+    "partOfSpeech": "v",
+    "phonetics": "/jel/",
+    "czech": "ječet",
+    "unit": 1
+  },
+  {
+    "english": "ability",
+    "partOfSpeech": "n",
+    "phonetics": "/ əˈ b ɪ l ə ti/",
+    "czech": "schopnost",
+    "unit": 2
+  },
+  {
+    "english": "abroad",
+    "partOfSpeech": "adv",
+    "phonetics": "/ əˈ br ɔː d/",
+    "czech": "v/do zahraničí",
+    "unit": 2
+  },
+  {
+    "english": "abruptly",
+    "partOfSpeech": "adv",
+    "phonetics": "/ əˈ br ʌ ptli/",
+    "czech": "náhle",
+    "unit": 2
+  },
+  {
+    "english": "adventure",
+    "partOfSpeech": "n",
+    "phonetics": "/ ə d ˈ vent ʃə (r)/",
+    "czech": "dobrodružství",
+    "unit": 2
+  },
+  {
+    "english": "allergy",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈæ l ə d ʒ i/",
+    "czech": "alergie",
+    "unit": 2
+  },
+  {
+    "english": "appointment",
+    "partOfSpeech": "n",
+    "phonetics": "/ əˈ p ɔɪ ntm ə nt/",
+    "czech": "schůzka",
+    "unit": 2
+  },
+  {
+    "english": "be appreciative of",
+    "partOfSpeech": "phr",
+    "phonetics": "/ əˈ pri ːʃə t ɪ v/",
+    "czech": "oceňovat",
+    "unit": 2
+  },
+  {
+    "english": "ATM",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ e ɪ  ti ː ˈ em/",
+    "czech": "bankomat",
+    "unit": 2
+  },
+  {
+    "english": "avoid",
+    "partOfSpeech": "v",
+    "phonetics": "/ əˈ v ɔɪ d/",
+    "czech": "vyhýbat se",
+    "unit": 2
+  },
+  {
+    "english": "be dying for",
+    "partOfSpeech": "idiom",
+    "phonetics": "/bi  ˈ da ɪɪŋ  f ɔː (r) /",
+    "czech": "toužit (k smrti) po něčem",
+    "unit": 2
+  },
+  {
+    "english": "be interested in",
+    "partOfSpeech": "phr",
+    "phonetics": "/bi  ˈ bi  ˈɪ ntr ə st ɪ d  ɪ n/",
+    "czech": "zajímat se o",
+    "unit": 2
+  },
+  {
+    "english": "bilingual",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌ ba ɪˈ l ɪŋɡ w ə l/",
+    "czech": "dvojjazyčný",
+    "unit": 2
+  },
+  {
+    "english": "buzz",
+    "partOfSpeech": "n",
+    "phonetics": "/b ʌ z/",
+    "czech": "bzučet",
+    "unit": 2
+  },
+  {
+    "english": "cancellation",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ k æ ns əˈ le ɪʃ n/",
+    "czech": "storno",
+    "unit": 2
+  },
+  {
+    "english": "comedian",
+    "partOfSpeech": "n",
+    "phonetics": "/k əˈ mi ː di ə n/",
+    "czech": "komik",
+    "unit": 2
+  },
+  {
+    "english": "commonly",
+    "partOfSpeech": "adv",
+    "phonetics": "/ ˈ k ɒ m ə nli/",
+    "czech": "běžně",
+    "unit": 2
+  },
+  {
+    "english": "consonant",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ k ɒ ns ə n ə nt/",
+    "czech": "souhláska",
+    "unit": 2
+  },
+  {
+    "english": "constantly",
+    "partOfSpeech": "adv",
+    "phonetics": "/ ˈ k ɒ nst ə ntli/",
+    "czech": "vždycky, neustále",
+    "unit": 2
+  },
+  {
+    "english": "context",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ k ɒ ntekst/",
+    "czech": "kontext",
+    "unit": 2
+  },
+  {
+    "english": "continent",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ k ɒ nt ɪ n ə nt/",
+    "czech": "kontinent",
+    "unit": 2
+  },
+  {
+    "english": "converse",
+    "partOfSpeech": "v",
+    "phonetics": "/k k ə n ˈ v ɜː s/",
+    "czech": "hovořit",
+    "unit": 2
+  },
+  {
+    "english": "correspondence",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ k ɒ r əˈ sp ɒ nd ə ns/",
+    "czech": "korespondence",
+    "unit": 2
+  },
+  {
+    "english": "cute",
+    "partOfSpeech": "adj",
+    "phonetics": "/kju ː t/",
+    "czech": "roztomilý",
+    "unit": 2
+  },
+  {
+    "english": "dessert",
+    "partOfSpeech": "n",
+    "phonetics": "/d ɪˈ z ɜː t/",
+    "czech": "moučník",
+    "unit": 2
+  },
+  {
+    "english": "disappear",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˌ d ɪ s əˈ p ɪə (r)/",
+    "czech": "mizet",
+    "unit": 2
+  },
+  {
+    "english": "drop",
+    "partOfSpeech": "v",
+    "phonetics": "/dr ɒ p/",
+    "czech": "nechat (něčeho)",
+    "unit": 2
+  },
+  {
+    "english": "emotions",
+    "partOfSpeech": "n pl",
+    "phonetics": "/ ɪˈ m əʊʃ nz/",
+    "czech": "emoce",
+    "unit": 2
+  },
+  {
+    "english": "enrich",
+    "partOfSpeech": "v",
+    "phonetics": "/ ɪ n ˈ r ɪ t ʃ /",
+    "czech": "obohatit",
+    "unit": 2
+  },
+  {
+    "english": "filling",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ f ɪ l ɪŋ /",
+    "czech": "plomba",
+    "unit": 2
+  },
+  {
+    "english": "flawless",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ fl ɔː l ə s/",
+    "czech": "bezchybný",
+    "unit": 2
+  },
+  {
+    "english": "fluency",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ flu ːə nsi/",
+    "czech": "plynnost",
+    "unit": 2
+  },
+  {
+    "english": "foreign",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ f ɒ r ə n/",
+    "czech": "cizí, zahraniční",
+    "unit": 2
+  },
+  {
+    "english": "gender",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ d ʒ end ə (r)/",
+    "czech": "rod (gramatický)",
+    "unit": 2
+  },
+  {
+    "english": "gossip",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈɡɒ s ɪ p/",
+    "czech": "drbat",
+    "unit": 2
+  },
+  {
+    "english": "grasp",
+    "partOfSpeech": "v",
+    "phonetics": "/ ɡ ræsp/",
+    "czech": "pochopit",
+    "unit": 2
+  },
+  {
+    "english": "immersion",
+    "partOfSpeech": "n",
+    "phonetics": "/ ɪˈ m ɜːʃ n/",
+    "czech": "ponoření",
+    "unit": 2
+  },
+  {
+    "english": "issue",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈɪʃ u ː /",
+    "czech": "problém",
+    "unit": 2
+  },
+  {
+    "english": "matinee",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ m æ t ɪ ne ɪ /",
+    "czech": "matiné (odpolední představení)",
+    "unit": 2
+  },
+  {
+    "english": "motivation",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ m əʊ t ɪˈ ve ɪʃ n/",
+    "czech": "motivace",
+    "unit": 2
+  },
+  {
+    "english": "native speaker",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ ne ɪ t ɪ v  ˈ spi ː k ə (r)/",
+    "czech": "rodilý / rodilá mluvčí",
+    "unit": 2
+  },
+  {
+    "english": "obviously",
+    "partOfSpeech": "adv",
+    "phonetics": "/'ɒbvɪəsli/",
+    "czech": "očividně",
+    "unit": 2
+  },
+  {
+    "english": "offended",
+    "partOfSpeech": "adj",
+    "phonetics": "/ əˈ fend ɪ d/",
+    "czech": "uražený",
+    "unit": 2
+  },
+  {
+    "english": "official",
+    "partOfSpeech": "adj",
+    "phonetics": "/ əˈ f ɪʃ l/",
+    "czech": "oficiální",
+    "unit": 2
+  },
+  {
+    "english": "OMG",
+    "partOfSpeech": "abbrev",
+    "phonetics": "/ əʊ  em  ˈ d ʒ i ː /",
+    "czech": "Ó můj bože (oh my God)",
+    "unit": 2
+  },
+  {
+    "english": "opportunity",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌɒ p ə (r) ˈ tju ː n ə ti/",
+    "czech": "příležitost",
+    "unit": 2
+  },
+  {
+    "english": "out loud",
+    "partOfSpeech": "phr",
+    "phonetics": "/a ʊ t  ˈ la ʊ d/",
+    "czech": "nahlas",
+    "unit": 2
+  },
+  {
+    "english": "parcel",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ p ɑː sl/",
+    "czech": "balík",
+    "unit": 2
+  },
+  {
+    "english": "perform",
+    "partOfSpeech": "v",
+    "phonetics": "/p p əˈ f ɔː m/",
+    "czech": "vystoupit (na jevišti)",
+    "unit": 2
+  },
+  {
+    "english": "polite",
+    "partOfSpeech": "adj",
+    "phonetics": "/p əˈ la ɪ t/",
+    "czech": "slušný, zdvořilý",
+    "unit": 2
+  },
+  {
+    "english": "priest",
+    "partOfSpeech": "n",
+    "phonetics": "/pri ː st/",
+    "czech": "kněz",
+    "unit": 2
+  },
+  {
+    "english": "profit",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ pr ɒ f ɪ t/",
+    "czech": "zisk",
+    "unit": 2
+  },
+  {
+    "english": "pronounce",
+    "partOfSpeech": "v",
+    "phonetics": "/pr pr əˈ na ʊ ns/",
+    "czech": "vyslovovat",
+    "unit": 2
+  },
+  {
+    "english": "recently",
+    "partOfSpeech": "adv",
+    "phonetics": "/ ˈ ri ː sntli/",
+    "czech": "v poslední době",
+    "unit": 2
+  },
+  {
+    "english": "recite",
+    "partOfSpeech": "v",
+    "phonetics": "/r ɪˈ sa ɪ t/",
+    "czech": "recitovat",
+    "unit": 2
+  },
+  {
+    "english": "recording",
+    "partOfSpeech": "n",
+    "phonetics": "/r ɪˈ m r ɪˈ k ɔː d ɪŋ /",
+    "czech": "nahrávka",
+    "unit": 2
+  },
+  {
+    "english": "remote",
+    "partOfSpeech": "adj",
+    "phonetics": "/r ɪˈ m r ɪˈ m əʊ t/",
+    "czech": "odlehlý, vzdálený, dálkový",
+    "unit": 2
+  },
+  {
+    "english": "reputation",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ repju ˈ te ɪʃ n/",
+    "czech": "pověst",
+    "unit": 2
+  },
+  {
+    "english": "rock up",
+    "partOfSpeech": "phr v",
+    "phonetics": "/r ɒ k  ˈʌ p/",
+    "czech": "dorazit",
+    "unit": 2
+  },
+  {
+    "english": "settle",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ setl/",
+    "czech": "usadit se",
+    "unit": 2
+  },
+  {
+    "english": "side dish",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ sa ɪ d d ɪʃ /",
+    "czech": "příloha",
+    "unit": 2
+  },
+  {
+    "english": "silently",
+    "partOfSpeech": "adv",
+    "phonetics": "/ ˈ sa ɪ l ə ntli/",
+    "czech": "potichu",
+    "unit": 2
+  },
+  {
+    "english": "simplify",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ s ɪ mpl ɪ fa ɪ /",
+    "czech": "zjednodušit",
+    "unit": 2
+  },
+  {
+    "english": "sold out",
+    "partOfSpeech": "phr v",
+    "phonetics": "/s əʊ ld  ˈ a ʊ t/",
+    "czech": "vyprodaný / vyprodáno",
+    "unit": 2
+  },
+  {
+    "english": "stand-up",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ st æ nd  ʌ p/",
+    "czech": "sólový, stand-up",
+    "unit": 2
+  },
+  {
+    "english": "stint",
+    "partOfSpeech": "n",
+    "phonetics": "/st ɪ nt/",
+    "czech": "období, štace",
+    "unit": 2
+  },
+  {
+    "english": "thunder",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈθʌ nd ə (r)/",
+    "czech": "hrom",
+    "unit": 2
+  },
+  {
+    "english": "trace",
+    "partOfSpeech": "n",
+    "phonetics": "/tre ɪ s/",
+    "czech": "stopa",
+    "unit": 2
+  },
+  {
+    "english": "trilingual",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌ tra ɪˈ l ɪŋɡ w( ə) l/",
+    "czech": "trojjazyčný",
+    "unit": 2
+  },
+  {
+    "english": "trim",
+    "partOfSpeech": "n",
+    "phonetics": "/tr ɪ m/",
+    "czech": "zastřihnutí",
+    "unit": 2
+  },
+  {
+    "english": "urgent",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈɜː d ʒə nt/",
+    "czech": "urgentní",
+    "unit": 2
+  },
+  {
+    "english": "well-educated",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌ wel  ˈ ed ʒ uke ɪ t ɪ d/",
+    "czech": "vzdělaný",
+    "unit": 2
+  },
+  {
+    "english": "A & E",
+    "partOfSpeech": "n",
+    "phonetics": "/e ɪ ə nd  ˈ i ː /",
+    "czech": "pohotovost",
+    "unit": 3
+  },
+  {
+    "english": "angry",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈæŋɡ ri/",
+    "czech": "rozzlobený",
+    "unit": 3
+  },
+  {
+    "english": "announce",
+    "partOfSpeech": "v",
+    "phonetics": "/ əˈ na ʊ ns/",
+    "czech": "oznámit",
+    "unit": 3
+  },
+  {
+    "english": "annual salary",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌæ nju ə l  ˈ s æ l ə ri/",
+    "czech": "roční plat",
+    "unit": 3
+  },
+  {
+    "english": "apology",
+    "partOfSpeech": "n pl",
+    "phonetics": "/ əˈ p ɒ l ə d ʒ iz/",
+    "czech": "omluva",
+    "unit": 3
+  },
+  {
+    "english": "attached",
+    "partOfSpeech": "adj",
+    "phonetics": "/ əˈ t æ t ʃ t/",
+    "czech": "přiložený",
+    "unit": 3
+  },
+  {
+    "english": "average",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈævə r ɪ d ʒ /",
+    "czech": "průměrný",
+    "unit": 3
+  },
+  {
+    "english": "balance",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ b æ l ə ns/",
+    "czech": "rovnováha",
+    "unit": 3
+  },
+  {
+    "english": "be in charge of",
+    "partOfSpeech": "phr",
+    "phonetics": "/ ˌ bi  ɪ n  ˈ t ʃɑː d ʒ ɒ v/",
+    "czech": "mít na starosti",
+    "unit": 3
+  },
+  {
+    "english": "be in debt",
+    "partOfSpeech": "phr",
+    "phonetics": "/ ˌ bi  ɪ n  ˈ det/",
+    "czech": "být zadlužený",
+    "unit": 3
+  },
+  {
+    "english": "be moved by",
+    "partOfSpeech": "phr",
+    "phonetics": "/ ˌ bi  ˈ mu ː vd ba ɪ /",
+    "czech": "být pohnutý, dojatý (něčím)",
+    "unit": 3
+  },
+  {
+    "english": "be responsible for",
+    "partOfSpeech": "phr",
+    "phonetics": "/ ˌ bi r ɪˈ sp ɒ ns ə bl f ɔː (r)/",
+    "czech": "zodpovídat za",
+    "unit": 3
+  },
+  {
+    "english": "beneficial",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌ ben ɪˈ f ɪʃ l/",
+    "czech": "přínosný",
+    "unit": 3
+  },
+  {
+    "english": "blame",
+    "partOfSpeech": "v",
+    "phonetics": "/ble ɪ m/",
+    "czech": "vinit",
+    "unit": 3
+  },
+  {
+    "english": "boss",
+    "partOfSpeech": "n",
+    "phonetics": "/b ɒ s/",
+    "czech": "šéf",
+    "unit": 3
+  },
+  {
+    "english": "budget",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ b ʌ d ʒɪ t/",
+    "czech": "rozpočet",
+    "unit": 3
+  },
+  {
+    "english": "bunch",
+    "partOfSpeech": "n",
+    "phonetics": "/b ʌ nt ʃ /",
+    "czech": "banda",
+    "unit": 3
+  },
+  {
+    "english": "cash flow",
+    "partOfSpeech": "n",
+    "phonetics": "/k æʃ ˈ fl əʊ /",
+    "czech": "peněžní tok",
+    "unit": 3
+  },
+  {
+    "english": "CEO",
+    "partOfSpeech": "n",
+    "phonetics": "/si ː  i ː ˈəʊ /",
+    "czech": "CEO, generální ředitel",
+    "unit": 3
+  },
+  {
+    "english": "chat",
+    "partOfSpeech": "v",
+    "phonetics": "/t ʃæ t/",
+    "czech": "klábosit",
+    "unit": 3
+  },
+  {
+    "english": "commute",
+    "partOfSpeech": "n",
+    "phonetics": "/k k əˈ mju ː t/",
+    "czech": "cesta do práce, školy",
+    "unit": 3
+  },
+  {
+    "english": "conference",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ k ɒ nf ə r ə ns/",
+    "czech": "konference",
+    "unit": 3
+  },
+  {
+    "english": "consideration",
+    "partOfSpeech": "n",
+    "phonetics": "/k k ə n ˌ s ɪ d əˈ re ɪʃ n/",
+    "czech": "zvážení",
+    "unit": 3
+  },
+  {
+    "english": "contract",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ k ɒ ntr æ kt/",
+    "czech": "kontrakt",
+    "unit": 3
+  },
+  {
+    "english": "convenient",
+    "partOfSpeech": "adj",
+    "phonetics": "/k k ə n ˈ vi ː ni ə nt/",
+    "czech": "praktický",
+    "unit": 3
+  },
+  {
+    "english": "crazy",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ kre ɪ zi/",
+    "czech": "šílený",
+    "unit": 3
+  },
+  {
+    "english": "dangly",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ d æŋɡ li/",
+    "czech": "houpavý",
+    "unit": 3
+  },
+  {
+    "english": "deserve",
+    "partOfSpeech": "v",
+    "phonetics": "/d ɪˈ z ɜː v/",
+    "czech": "zasloužit si",
+    "unit": 3
+  },
+  {
+    "english": "distress",
+    "partOfSpeech": "n",
+    "phonetics": "/d ɪˈ stres/",
+    "czech": "tíseň, utrpení",
+    "unit": 3
+  },
+  {
+    "english": "diver",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ da ɪ v ə (r)/",
+    "czech": "potápěč",
+    "unit": 3
+  },
+  {
+    "english": "diving bell",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ da ɪ v ɪŋ  bel/",
+    "czech": "potápěčský zvon",
+    "unit": 3
+  },
+  {
+    "english": "DIY",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ di ː  a ɪ ˈ wa ɪ /",
+    "czech": "kutilství",
+    "unit": 3
+  },
+  {
+    "english": "dozen",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ d ʌ zn/",
+    "czech": "tucet",
+    "unit": 3
+  },
+  {
+    "english": "drag",
+    "partOfSpeech": "v",
+    "phonetics": "/dr æɡ /",
+    "czech": "vyhrabat se",
+    "unit": 3
+  },
+  {
+    "english": "dressing room",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ dres ɪŋ ˌ ru ː m/",
+    "czech": "šatna",
+    "unit": 3
+  },
+  {
+    "english": "drill",
+    "partOfSpeech": "n",
+    "phonetics": "/dr ɪ l/",
+    "czech": "vrtačka",
+    "unit": 3
+  },
+  {
+    "english": "earn",
+    "partOfSpeech": "v",
+    "phonetics": "/ ɜː n/",
+    "czech": "vydělat / vydělávat",
+    "unit": 3
+  },
+  {
+    "english": "employer",
+    "partOfSpeech": "n",
+    "phonetics": "/ ɪ m ˈ pl ɔɪə (r)/",
+    "czech": "zaměstnavatel",
+    "unit": 3
+  },
+  {
+    "english": "encourage",
+    "partOfSpeech": "v",
+    "phonetics": "/ ɪ n ˈ k ʌ r ɪ d ʒ /",
+    "czech": "motivovat, povzbudit",
+    "unit": 3
+  },
+  {
+    "english": "escalators",
+    "partOfSpeech": "n pl",
+    "phonetics": "/ ˈ esk ə le ɪ t ə (r)z/",
+    "czech": "eskalátor",
+    "unit": 3
+  },
+  {
+    "english": "excursion",
+    "partOfSpeech": "n",
+    "phonetics": "/ ɪ k ˈ sk ɜːʃ n/",
+    "czech": "výlet",
+    "unit": 3
+  },
+  {
+    "english": "experiment",
+    "partOfSpeech": "n",
+    "phonetics": "/ ɪ k ˈ sper ɪ m ə nt/",
+    "czech": "pokus",
+    "unit": 3
+  },
+  {
+    "english": "fabulous",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ f æ bj ə l ə s/",
+    "czech": "pohádkový, báječný",
+    "unit": 3
+  },
+  {
+    "english": "face",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ fe ɪ s/",
+    "czech": "čelit",
+    "unit": 3
+  },
+  {
+    "english": "glamorous",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈɡ l æ m ə r ə s/",
+    "czech": "atraktivní",
+    "unit": 3
+  },
+  {
+    "english": "grateful",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈɡ re ɪ tfl/",
+    "czech": "vděčný",
+    "unit": 3
+  },
+  {
+    "english": "greedy",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈɡ ri ː di/",
+    "czech": "chamtivý",
+    "unit": 3
+  },
+  {
+    "english": "headset",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ hedset/",
+    "czech": "sluchátka",
+    "unit": 3
+  },
+  {
+    "english": "helmet",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ helm ɪ t/",
+    "czech": "helma",
+    "unit": 3
+  },
+  {
+    "english": "household",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ ha ʊ sh əʊ ld/",
+    "czech": "domácost",
+    "unit": 3
+  },
+  {
+    "english": "huge",
+    "partOfSpeech": "adj",
+    "phonetics": "/hju ː d ʒ /",
+    "czech": "obrovský",
+    "unit": 3
+  },
+  {
+    "english": "human resources",
+    "partOfSpeech": "n pl",
+    "phonetics": "/ ˌ hju ː m ə n r ɪˈ s ɔː s ɪ  z/",
+    "czech": "lidské zdroje",
+    "unit": 3
+  },
+  {
+    "english": "import",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈɪ mp ɔː t/",
+    "czech": "importovat",
+    "unit": 3
+  },
+  {
+    "english": "income",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈɪ nk ʌ m/",
+    "czech": "příjem",
+    "unit": 3
+  },
+  {
+    "english": "industrial estate",
+    "partOfSpeech": "n",
+    "phonetics": "/ ɪ n ˈ d ʌ stri ə l  ɪˌ ste ɪ t/",
+    "czech": "průmyslová zóna",
+    "unit": 3
+  },
+  {
+    "english": "inequality",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌɪ n ɪˈ kw ɒ l ə ti/",
+    "czech": "nerovnost",
+    "unit": 3
+  },
+  {
+    "english": "install",
+    "partOfSpeech": "v",
+    "phonetics": "/ ɪ n ˈ st ɔː l/",
+    "czech": "instalovat",
+    "unit": 3
+  },
+  {
+    "english": "jumper",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ d ʒʌ mp ə (r)/",
+    "czech": "svetr",
+    "unit": 3
+  },
+  {
+    "english": "knit",
+    "partOfSpeech": "v",
+    "phonetics": "/n ɪ t/",
+    "czech": "plést",
+    "unit": 3
+  },
+  {
+    "english": "lie in",
+    "partOfSpeech": "phr v",
+    "phonetics": "/la ɪ ˈɪ n/",
+    "czech": "přispat si",
+    "unit": 3
+  },
+  {
+    "english": "loan",
+    "partOfSpeech": "n",
+    "phonetics": "/l əʊ n/",
+    "czech": "půjčka",
+    "unit": 3
+  },
+  {
+    "english": "loneliness",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ l əʊ nlin ə s/",
+    "czech": "osamělost",
+    "unit": 3
+  },
+  {
+    "english": "look after",
+    "partOfSpeech": "phr v",
+    "phonetics": "/l ʊ k  ˈɑː ft ə (r)/",
+    "czech": "starat se o",
+    "unit": 3
+  },
+  {
+    "english": "lunatic",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ lu ː n ə t ɪ k/",
+    "czech": "šílenec",
+    "unit": 3
+  },
+  {
+    "english": "manner",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ m æ n ə (r)/",
+    "czech": "chování",
+    "unit": 3
+  },
+  {
+    "english": "mat",
+    "partOfSpeech": "n",
+    "phonetics": "/m æ t/",
+    "czech": "podložka",
+    "unit": 3
+  },
+  {
+    "english": "meditation",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ med ɪˈ te ɪʃ n/",
+    "czech": "meditace",
+    "unit": 3
+  },
+  {
+    "english": "minimum wage",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ m ɪ n ɪ m ə m  ˈ we ɪ d ʒ/",
+    "czech": "minimální mzda",
+    "unit": 3
+  },
+  {
+    "english": "miserably",
+    "partOfSpeech": "adv",
+    "phonetics": "/ ˈ m ɪ zr ə bli/",
+    "czech": "zoufale, mizerně",
+    "unit": 3
+  },
+  {
+    "english": "needle",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ ni ː dl/",
+    "czech": "jehla",
+    "unit": 3
+  },
+  {
+    "english": "negotiate",
+    "partOfSpeech": "v",
+    "phonetics": "/n n ɪˈɡəʊʃ ie ɪ t/",
+    "czech": "vyjednávat",
+    "unit": 3
+  },
+  {
+    "english": "nursery nurse",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ n ɜː s ə ri n ɜː s/",
+    "czech": "vychovatelka v jeslích",
+    "unit": 3
+  },
+  {
+    "english": "on hold",
+    "partOfSpeech": "phr",
+    "phonetics": "/ ɒ n  ˈ h əʊ ld/",
+    "czech": "pozastavený",
+    "unit": 3
+  },
+  {
+    "english": "owe",
+    "partOfSpeech": "v",
+    "phonetics": "/ əʊ /",
+    "czech": "dlužit",
+    "unit": 3
+  },
+  {
+    "english": "patient",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ pe ɪʃ nt/",
+    "czech": "pacient",
+    "unit": 3
+  },
+  {
+    "english": "personnel",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ p ɜː s əˈ nel/",
+    "czech": "personál",
+    "unit": 3
+  },
+  {
+    "english": "pocket money",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ p ɒ k ɪ t  ˌ m ʌ ni/",
+    "czech": "kapesné",
+    "unit": 3
+  },
+  {
+    "english": "previous",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ pri ː vi ə s/",
+    "czech": "předchozí",
+    "unit": 3
+  },
+  {
+    "english": "proficient",
+    "partOfSpeech": "adj",
+    "phonetics": "/pr pr əˈ f ɪʃ nt/",
+    "czech": "zběhlý",
+    "unit": 3
+  },
+  {
+    "english": "racket",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ r æ k ɪ t/",
+    "czech": "raketa",
+    "unit": 3
+  },
+  {
+    "english": "rare",
+    "partOfSpeech": "adj",
+    "phonetics": "/re ə (r)/",
+    "czech": "ojedinělý, vzácný",
+    "unit": 3
+  },
+  {
+    "english": "rarely",
+    "partOfSpeech": "adv",
+    "phonetics": "/ ˈ re ə li/",
+    "czech": "vzácně",
+    "unit": 3
+  },
+  {
+    "english": "reappear",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˌ ri ːəˈ p ɪə (r)/",
+    "czech": "znovu se objevit",
+    "unit": 3
+  },
+  {
+    "english": "recruit",
+    "partOfSpeech": "v",
+    "phonetics": "/r r ɪˈ kru ː t/",
+    "czech": "přijmout",
+    "unit": 3
+  },
+  {
+    "english": "redecorate",
+    "partOfSpeech": "v",
+    "phonetics": "/ˌriːˈdekəreɪt/",
+    "czech": "vymalovat",
+    "unit": 3
+  },
+  {
+    "english": "referee",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ ref əˈ ri ː /",
+    "czech": "rozhodčí",
+    "unit": 3
+  },
+  {
+    "english": "reference",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ refr ə ns/",
+    "czech": "doporučení",
+    "unit": 3
+  },
+  {
+    "english": "regret",
+    "partOfSpeech": "v",
+    "phonetics": "/r ɪˈɡ ret/",
+    "czech": "lítost",
+    "unit": 3
+  },
+  {
+    "english": "rural",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ r ʊə r ə l/",
+    "czech": "venkovský",
+    "unit": 3
+  },
+  {
+    "english": "saddle",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ s æ dl/",
+    "czech": "sedlo",
+    "unit": 3
+  },
+  {
+    "english": "sailing",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ se ɪ l ɪŋ /",
+    "czech": "plachtění",
+    "unit": 3
+  },
+  {
+    "english": "sales assistant",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ se ɪ lz  əˌ s ɪ st ə nt/",
+    "czech": "prodavač",
+    "unit": 3
+  },
+  {
+    "english": "scarf",
+    "partOfSpeech": "n",
+    "phonetics": "/sk ɑː f/",
+    "czech": "šála",
+    "unit": 3
+  },
+  {
+    "english": "screwdriver",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ skru ː dra ɪ v ə (r)/",
+    "czech": "šroubovák",
+    "unit": 3
+  },
+  {
+    "english": "sea bed",
+    "partOfSpeech": "n",
+    "phonetics": "/si ː ˈ bed/",
+    "czech": "mořské dno",
+    "unit": 3
+  },
+  {
+    "english": "sew",
+    "partOfSpeech": "v",
+    "phonetics": "/s s əʊ /",
+    "czech": "šít",
+    "unit": 3
+  },
+  {
+    "english": "shorts",
+    "partOfSpeech": "n pl",
+    "phonetics": "/ ʃɔː ts/",
+    "czech": "šortky, kraťase",
+    "unit": 3
+  },
+  {
+    "english": "shout",
+    "partOfSpeech": "v",
+    "phonetics": "/ ʃ a ʊ t/",
+    "czech": "křičet",
+    "unit": 3
+  },
+  {
+    "english": "silk",
+    "partOfSpeech": "n",
+    "phonetics": "/s ɪ lk/",
+    "czech": "hedvábí",
+    "unit": 3
+  },
+  {
+    "english": "sip",
+    "partOfSpeech": "v",
+    "phonetics": "/s ɪ p/",
+    "czech": "srkat, upíjet",
+    "unit": 3
+  },
+  {
+    "english": "sleeping bag",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ sli ː p ɪŋ ˌ b æɡ /",
+    "czech": "spací pytel",
+    "unit": 3
+  },
+  {
+    "english": "store card",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ st ɔː (r)  ˌ k ɑː d/",
+    "czech": "zákaznická karta",
+    "unit": 3
+  },
+  {
+    "english": "stressful",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ stresfl/",
+    "czech": "stresující",
+    "unit": 3
+  },
+  {
+    "english": "striped",
+    "partOfSpeech": "adj",
+    "phonetics": "/stra ɪ pt/",
+    "czech": "pruhovaný",
+    "unit": 3
+  },
+  {
+    "english": "suburb",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ s ʌ b ɜː b/",
+    "czech": "předměstí",
+    "unit": 3
+  },
+  {
+    "english": "suit",
+    "partOfSpeech": "n",
+    "phonetics": "/su ː t/",
+    "czech": "oblek",
+    "unit": 3
+  },
+  {
+    "english": "supervise",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ su ː p ə va ɪ z/",
+    "czech": "dohlížet",
+    "unit": 3
+  },
+  {
+    "english": "switch off",
+    "partOfSpeech": "v",
+    "phonetics": "/sw sw ɪ t ʃ ˈɒ f/",
+    "czech": "vypnout",
+    "unit": 3
+  },
+  {
+    "english": "target",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ t ɑːɡɪ t/",
+    "czech": "cíl",
+    "unit": 3
+  },
+  {
+    "english": "tax",
+    "partOfSpeech": "n",
+    "phonetics": "/t æ ks/",
+    "czech": "daň",
+    "unit": 3
+  },
+  {
+    "english": "tent",
+    "partOfSpeech": "n",
+    "phonetics": "/tent/",
+    "czech": "stan",
+    "unit": 3
+  },
+  {
+    "english": "thread",
+    "partOfSpeech": "n",
+    "phonetics": "/ θ red/",
+    "czech": "nit",
+    "unit": 3
+  },
+  {
+    "english": "tie",
+    "partOfSpeech": "n",
+    "phonetics": "/ta ɪ /",
+    "czech": "kravata",
+    "unit": 3
+  },
+  {
+    "english": "time-consuming",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ ta ɪ m k ə n ˌ sju ː m ɪŋ /",
+    "czech": "časově náročný",
+    "unit": 3
+  },
+  {
+    "english": "track",
+    "partOfSpeech": "v",
+    "phonetics": "/tr æ k/",
+    "czech": "sledovat",
+    "unit": 3
+  },
+  {
+    "english": "tracksuit",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ tr æ ksu ː t/",
+    "czech": "tepláková souprava",
+    "unit": 3
+  },
+  {
+    "english": "trainers",
+    "partOfSpeech": "n pl",
+    "phonetics": "/ ˈ tre ɪ n ə (r)z/",
+    "czech": "tenisky",
+    "unit": 3
+  },
+  {
+    "english": "tricky",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ tr ɪ ki/",
+    "czech": "obtížný, záludný",
+    "unit": 3
+  },
+  {
+    "english": "triplets",
+    "partOfSpeech": "n pl",
+    "phonetics": "/ ˈ tr ɪ pl ə ts/",
+    "czech": "trojčata",
+    "unit": 3
+  },
+  {
+    "english": "underwriter",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈʌ nd ə ra ɪ t ə (r)/",
+    "czech": "pojistitel, upisovatel",
+    "unit": 3
+  },
+  {
+    "english": "unkempt",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌʌ n ˈ kempt/",
+    "czech": "neučesaný",
+    "unit": 3
+  },
+  {
+    "english": "unusual",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ʌ n ˈ ju ːʒ u ə l/",
+    "czech": "neobvyklý",
+    "unit": 3
+  },
+  {
+    "english": "violent",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ va ɪə l ə nt/",
+    "czech": "zuřivý, násilný",
+    "unit": 3
+  },
+  {
+    "english": "workforce",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ w ɜː kf ɔː s/",
+    "czech": "pracovní síla",
+    "unit": 3
+  },
+  {
+    "english": "worried",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ w ʌ ri:d/",
+    "czech": "znepokojený, ustaraný",
+    "unit": 3
+  },
+  {
+    "english": "adore",
+    "partOfSpeech": "v",
+    "phonetics": "/ əˈ d ɔː (r)/",
+    "czech": "zbožňovat",
+    "unit": 4
+  },
+  {
+    "english": "appear",
+    "partOfSpeech": "v",
+    "phonetics": "/ əˈ p ɪə (r)/",
+    "czech": "objevit se",
+    "unit": 4
+  },
+  {
+    "english": "awful",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈɔː fl/",
+    "czech": "hrozný",
+    "unit": 4
+  },
+  {
+    "english": "beloved",
+    "partOfSpeech": "adj",
+    "phonetics": "/b ɪˈ l ʌ vd/",
+    "czech": "milovaný",
+    "unit": 4
+  },
+  {
+    "english": "blackmail",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ bl æ kme ɪ l/",
+    "czech": "vydírat",
+    "unit": 4
+  },
+  {
+    "english": "blind",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ bla ɪ nd/",
+    "czech": "slepý",
+    "unit": 4
+  },
+  {
+    "english": "bride",
+    "partOfSpeech": "n",
+    "phonetics": "/bra ɪ d/",
+    "czech": "nevěsta",
+    "unit": 4
+  },
+  {
+    "english": "brilliant",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ br ɪ li ə nt/",
+    "czech": "úžasný",
+    "unit": 4
+  },
+  {
+    "english": "chew",
+    "partOfSpeech": "v",
+    "phonetics": "/t ʃ u ː /",
+    "czech": "žvýkat",
+    "unit": 4
+  },
+  {
+    "english": "choke",
+    "partOfSpeech": "v",
+    "phonetics": "/t ʃəʊ k/",
+    "czech": "ucpat, dávit se",
+    "unit": 4
+  },
+  {
+    "english": "classic",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ kl æ s ɪ k/",
+    "czech": "klasika",
+    "unit": 4
+  },
+  {
+    "english": "confide",
+    "partOfSpeech": "v",
+    "phonetics": "/k k ə n ˈ fa ɪ d/",
+    "czech": "svěřit se",
+    "unit": 4
+  },
+  {
+    "english": "crash",
+    "partOfSpeech": "n",
+    "phonetics": "/kr æʃ /",
+    "czech": "havárie",
+    "unit": 4
+  },
+  {
+    "english": "crave",
+    "partOfSpeech": "v",
+    "phonetics": "/kre ɪ v/",
+    "czech": "dychtit, toužit",
+    "unit": 4
+  },
+  {
+    "english": "cruel",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ kru ːə l/",
+    "czech": "krutý",
+    "unit": 4
+  },
+  {
+    "english": "cure",
+    "partOfSpeech": "n",
+    "phonetics": "/kj ʊə (r)/",
+    "czech": "lék",
+    "unit": 4
+  },
+  {
+    "english": "dead",
+    "partOfSpeech": "adj",
+    "phonetics": "/ded/",
+    "czech": "mrtvý",
+    "unit": 4
+  },
+  {
+    "english": "decadent",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ dek ə d ə nt/",
+    "czech": "dekadentní",
+    "unit": 4
+  },
+  {
+    "english": "defect",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ di ː fekt/",
+    "czech": "vada",
+    "unit": 4
+  },
+  {
+    "english": "defend",
+    "partOfSpeech": "v",
+    "phonetics": "/d ɪˈ fend/",
+    "czech": "bránit",
+    "unit": 4
+  },
+  {
+    "english": "definitive",
+    "partOfSpeech": "adj",
+    "phonetics": "/d d ɪˈ f ɪ n ə t ɪ v/",
+    "czech": "definitivní",
+    "unit": 4
+  },
+  {
+    "english": "desperate",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ desp ə r ə t/",
+    "czech": "zoufalý",
+    "unit": 4
+  },
+  {
+    "english": "destroy",
+    "partOfSpeech": "v",
+    "phonetics": "/d ɪˈ str ɔɪ /",
+    "czech": "zničit",
+    "unit": 4
+  },
+  {
+    "english": "disaster",
+    "partOfSpeech": "n",
+    "phonetics": "/d ɪˈ z ɑː st ə (r)/",
+    "czech": "katastrofa, pohroma",
+    "unit": 4
+  },
+  {
+    "english": "drive out",
+    "partOfSpeech": "phr v",
+    "phonetics": "/dra ɪ v  ˈ a ʊ t/",
+    "czech": "vyhnat",
+    "unit": 4
+  },
+  {
+    "english": "ecological",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌ i ː k əˈ l ɒ d ʒɪ kl/",
+    "czech": "ekologický",
+    "unit": 4
+  },
+  {
+    "english": "engagement",
+    "partOfSpeech": "n",
+    "phonetics": "/ ɪ n ˈɡ e ɪ d ʒ m ə nt/",
+    "czech": "zasnoubení",
+    "unit": 4
+  },
+  {
+    "english": "eternal",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ɪˈ t ɜː n(ə)l/",
+    "czech": "věčný",
+    "unit": 4
+  },
+  {
+    "english": "evidence",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ ev ɪ d ə ns/",
+    "czech": "důkaz",
+    "unit": 4
+  },
+  {
+    "english": "expression",
+    "partOfSpeech": "n",
+    "phonetics": "/ ɪ k ˈ spre ʃ n/",
+    "czech": "výraz",
+    "unit": 4
+  },
+  {
+    "english": "fall for",
+    "partOfSpeech": "phr",
+    "phonetics": "/ ˈ f ɔː l f ə (r)  ˌ s ʌ mw ʌ n/",
+    "czech": "zamilovat se do",
+    "unit": 4
+  },
+  {
+    "english": "fantastic",
+    "partOfSpeech": "adj",
+    "phonetics": "/f f æ n ˈ t æ st ɪ k/",
+    "czech": "fantastický",
+    "unit": 4
+  },
+  {
+    "english": "fascinating",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ f æ s ɪ ne ɪ t ɪŋ /",
+    "czech": "úchvatný, fascinující",
+    "unit": 4
+  },
+  {
+    "english": "fee",
+    "partOfSpeech": "n",
+    "phonetics": "/fi ː /",
+    "czech": "vstupné",
+    "unit": 4
+  },
+  {
+    "english": "flock",
+    "partOfSpeech": "n",
+    "phonetics": "/fl ɒ k/",
+    "czech": "hejno",
+    "unit": 4
+  },
+  {
+    "english": "furious",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ fj ʊə ri ə s/",
+    "czech": "zuřivý",
+    "unit": 4
+  },
+  {
+    "english": "gesture",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ d ʒ est ʃə (r)/",
+    "czech": "gesto",
+    "unit": 4
+  },
+  {
+    "english": "get rid of",
+    "partOfSpeech": "phr",
+    "phonetics": "/ ˌɡ et  ˈ r ɪ d  ə v/",
+    "czech": "zbavit se",
+    "unit": 4
+  },
+  {
+    "english": "gigantic",
+    "partOfSpeech": "adj",
+    "phonetics": "/d d ʒ a ɪˈɡæ nt ɪ k/",
+    "czech": "obrovský",
+    "unit": 4
+  },
+  {
+    "english": "grab",
+    "partOfSpeech": "v",
+    "phonetics": "/ ɡ r æ b/",
+    "czech": "uchopit",
+    "unit": 4
+  },
+  {
+    "english": "guilt",
+    "partOfSpeech": "n",
+    "phonetics": "/ ɡɪ lt/",
+    "czech": "vina",
+    "unit": 4
+  },
+  {
+    "english": "handsome",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ h æ ns ə m/",
+    "czech": "pohledný (muž)",
+    "unit": 4
+  },
+  {
+    "english": "hideous",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ h ɪ di ə s/",
+    "czech": "odporný",
+    "unit": 4
+  },
+  {
+    "english": "impressed",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ɪ m ˈ prest/",
+    "czech": "ohromený",
+    "unit": 4
+  },
+  {
+    "english": "influence",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈɪ nflu ə ns/",
+    "czech": "vliv",
+    "unit": 4
+  },
+  {
+    "english": "in high regard",
+    "partOfSpeech": "phr",
+    "phonetics": "/ɪn ha ɪ  r ɪˈɡɑː d/",
+    "czech": "ve vysoké úctě, velmi ceněný",
+    "unit": 4
+  },
+  {
+    "english": "kill",
+    "partOfSpeech": "v",
+    "phonetics": "/k ɪ l/",
+    "czech": "zabít",
+    "unit": 4
+  },
+  {
+    "english": "knot",
+    "partOfSpeech": "n",
+    "phonetics": "/n ɒ t/",
+    "czech": "uzel",
+    "unit": 4
+  },
+  {
+    "english": "lament",
+    "partOfSpeech": "v",
+    "phonetics": "/l l əˈ ment/",
+    "czech": "bědovat, naříkat",
+    "unit": 4
+  },
+  {
+    "english": "lock",
+    "partOfSpeech": "v",
+    "phonetics": "/l ɒ k/",
+    "czech": "(u)zamknout",
+    "unit": 4
+  },
+  {
+    "english": "memorize",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ mem ə ra ɪ z/",
+    "czech": "naučit se nazpaměť",
+    "unit": 4
+  },
+  {
+    "english": "moral",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ m ɒ r ə l/",
+    "czech": "ponaučení",
+    "unit": 4
+  },
+  {
+    "english": "native species",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ ne ɪ t ɪ v  ˈ spi ːʃ i ː z/",
+    "czech": "původní druhy",
+    "unit": 4
+  },
+  {
+    "english": "obsessed",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ə b ˈ sest/",
+    "czech": "posedlý",
+    "unit": 4
+  },
+  {
+    "english": "plague",
+    "partOfSpeech": "n",
+    "phonetics": "/ple ɪɡ /",
+    "czech": "mor",
+    "unit": 4
+  },
+  {
+    "english": "playwright",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ ple ɪ ra ɪ t/",
+    "czech": "dramatik",
+    "unit": 4
+  },
+  {
+    "english": "pleasures",
+    "partOfSpeech": "n pl",
+    "phonetics": "/ ˈ ple ʒə (r)z/",
+    "czech": "potěšení",
+    "unit": 4
+  },
+  {
+    "english": "plot",
+    "partOfSpeech": "n",
+    "phonetics": "/pl ɒ t/",
+    "czech": "zápletka, děj",
+    "unit": 4
+  },
+  {
+    "english": "poor",
+    "partOfSpeech": "adj",
+    "phonetics": "/p ɔː (r)/",
+    "czech": "chudý",
+    "unit": 4
+  },
+  {
+    "english": "population",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ p ɒ pju ˈ le ɪʃ n/",
+    "czech": "obyvatelstvo",
+    "unit": 4
+  },
+  {
+    "english": "portrait",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ p ɔː tre ɪ t/",
+    "czech": "portrét",
+    "unit": 4
+  },
+  {
+    "english": "presumably",
+    "partOfSpeech": "adv",
+    "phonetics": "/pr pr ɪˈ zju ː m( ə) bli/",
+    "czech": "pravděpodobně",
+    "unit": 4
+  },
+  {
+    "english": "promise",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ pr ɒ m ɪ s/",
+    "czech": "slíbit",
+    "unit": 4
+  },
+  {
+    "english": "rage",
+    "partOfSpeech": "n",
+    "phonetics": "/re ɪ d ʒ /",
+    "czech": "zuřivost",
+    "unit": 4
+  },
+  {
+    "english": "receipt",
+    "partOfSpeech": "n",
+    "phonetics": "/r ɪˈ si ː t/",
+    "czech": "účtenka",
+    "unit": 4
+  },
+  {
+    "english": "repulsive",
+    "partOfSpeech": "adj",
+    "phonetics": "/r ɪˈ p ʌ ls ɪ v/",
+    "czech": "odporný",
+    "unit": 4
+  },
+  {
+    "english": "run out of",
+    "partOfSpeech": "phr v",
+    "phonetics": "/r ʌ n  ˈ a ʊ t  ə v/",
+    "czech": "dojít (zásoby)",
+    "unit": 4
+  },
+  {
+    "english": "scandal",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ sk æ ndl/",
+    "czech": "skandál",
+    "unit": 4
+  },
+  {
+    "english": "secret",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ si ː kr ə t/",
+    "czech": "tajemství",
+    "unit": 4
+  },
+  {
+    "english": "setting",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ set ɪŋ /",
+    "czech": "prostředí, nastavení",
+    "unit": 4
+  },
+  {
+    "english": "shares",
+    "partOfSpeech": "n pl",
+    "phonetics": "/ ʃ e ə (r)z/",
+    "czech": "akcie",
+    "unit": 4
+  },
+  {
+    "english": "soul",
+    "partOfSpeech": "n",
+    "phonetics": "/s əʊ l/",
+    "czech": "duše",
+    "unit": 4
+  },
+  {
+    "english": "spread",
+    "partOfSpeech": "v",
+    "phonetics": "/spred/",
+    "czech": "rozšířit se, rozložit",
+    "unit": 4
+  },
+  {
+    "english": "stab",
+    "partOfSpeech": "v",
+    "phonetics": "/st æ b/",
+    "czech": "bodnout",
+    "unit": 4
+  },
+  {
+    "english": "suffer",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ s ʌ f ə (r)/",
+    "czech": "trpět",
+    "unit": 4
+  },
+  {
+    "english": "survive",
+    "partOfSpeech": "v",
+    "phonetics": "/s s əˈ va ɪ v/",
+    "czech": "přežít",
+    "unit": 4
+  },
+  {
+    "english": "swallow",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ sw ɒ l əʊ /",
+    "czech": "spolknout",
+    "unit": 4
+  },
+  {
+    "english": "take off",
+    "partOfSpeech": "phr v",
+    "phonetics": "/te ɪ k  ˈɒ f/",
+    "czech": "vzlétnout",
+    "unit": 4
+  },
+  {
+    "english": "temptation",
+    "partOfSpeech": "n",
+    "phonetics": "/temp temp ˈ te ɪʃ n/",
+    "czech": "pokušení",
+    "unit": 4
+  },
+  {
+    "english": "tough",
+    "partOfSpeech": "adj",
+    "phonetics": "/t ʌ f/",
+    "czech": "těžký",
+    "unit": 4
+  },
+  {
+    "english": "tragically",
+    "partOfSpeech": "adv",
+    "phonetics": "/ ˈ tr æ d ʒɪ kli/",
+    "czech": "tragicky",
+    "unit": 4
+  },
+  {
+    "english": "treasure",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ tre ʒə (r)/",
+    "czech": "poklad",
+    "unit": 4
+  },
+  {
+    "english": "ugly",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈʌɡ li/",
+    "czech": "ošklivý",
+    "unit": 4
+  },
+  {
+    "english": "unfortunate",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ʌ n ˈ f ɔː t ʃə n ə t/",
+    "czech": "nešťastný",
+    "unit": 4
+  },
+  {
+    "english": "untimely",
+    "partOfSpeech": "adv",
+    "phonetics": "/ ʌ n ˈ ta ɪ mli/",
+    "czech": "předčasný",
+    "unit": 4
+  },
+  {
+    "english": "upset",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ʌ p ˈ set/",
+    "czech": "rozčilený, znepokojený",
+    "unit": 4
+  },
+  {
+    "english": "utmost",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈʌ tm əʊ st/",
+    "czech": "největší",
+    "unit": 4
+  },
+  {
+    "english": "vineyard",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ v ɪ nj ə d/",
+    "czech": "vinice",
+    "unit": 4
+  },
+  {
+    "english": "wealthy",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ wel θ i/",
+    "czech": "bohatý",
+    "unit": 4
+  },
+  {
+    "english": "whisk",
+    "partOfSpeech": "v",
+    "phonetics": "/w ɪ sk/",
+    "czech": "unést",
+    "unit": 4
+  },
+  {
+    "english": "wool",
+    "partOfSpeech": "n",
+    "phonetics": "/w ʊ l/",
+    "czech": "vlna",
+    "unit": 4
+  },
+  {
+    "english": "wreck",
+    "partOfSpeech": "v",
+    "phonetics": "/rek/",
+    "czech": "zničit",
+    "unit": 4
+  },
+  {
+    "english": "wretched",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ ret ʃɪ d/",
+    "czech": "bídný, ubohý",
+    "unit": 4
+  },
+  {
+    "english": "wrinkled",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ r ɪŋ kld/",
+    "czech": "vrásčitý",
+    "unit": 4
+  },
+  {
+    "english": "yield",
+    "partOfSpeech": "v",
+    "phonetics": "/ji ː ld/",
+    "czech": "vzdát se",
+    "unit": 4
+  },
+  {
+    "english": "aggressive",
+    "partOfSpeech": "adj",
+    "phonetics": "/ əˈɡ res ɪ v/",
+    "czech": "agresivní",
+    "unit": 5
+  },
+  {
+    "english": "break-up",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ bre ɪ k  ʌ p/",
+    "czech": "rozchod",
+    "unit": 5
+  },
+  {
+    "english": "bring up",
+    "partOfSpeech": "phr v",
+    "phonetics": "/br ɪŋ ˈʌ p/",
+    "czech": "zmínit",
+    "unit": 5
+  },
+  {
+    "english": "bump into",
+    "partOfSpeech": "idiom",
+    "phonetics": "/b ʌ mp  ˈɪ nt ə  s ʌ mw ʌ n/",
+    "czech": "vrazit do (někoho)",
+    "unit": 5
+  },
+  {
+    "english": "cash",
+    "partOfSpeech": "n",
+    "phonetics": "/k æʃ /",
+    "czech": "hotovost",
+    "unit": 5
+  },
+  {
+    "english": "change",
+    "partOfSpeech": "n",
+    "phonetics": "/t ʃ e ɪ nd ʒ /",
+    "czech": "drobné",
+    "unit": 5
+  },
+  {
+    "english": "change your mind",
+    "partOfSpeech": "phr",
+    "phonetics": "/t ʃ e ɪ nd ʒ  j ɔː  ma ɪ nd /",
+    "czech": "změnit názor, rozmyslet si",
+    "unit": 5
+  },
+  {
+    "english": "charger",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ t ʃɑː d ʒə (r)/",
+    "czech": "nabíječka",
+    "unit": 5
+  },
+  {
+    "english": "chores",
+    "partOfSpeech": "n pl",
+    "phonetics": "/t ʃɔː (r)z/",
+    "czech": "úkoly v domácnosti, domácí práce,pochůzky",
+    "unit": 5
+  },
+  {
+    "english": "complain",
+    "partOfSpeech": "v",
+    "phonetics": "/k k ə m ˈ ple ɪ n/",
+    "czech": "stěžovat si",
+    "unit": 5
+  },
+  {
+    "english": "cupboard",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ k ʌ b ə d/",
+    "czech": "skříň",
+    "unit": 5
+  },
+  {
+    "english": "damage",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ d æ m ɪ d ʒ /",
+    "czech": "poškodit",
+    "unit": 5
+  },
+  {
+    "english": "desperately",
+    "partOfSpeech": "adv",
+    "phonetics": "/ ˈ desp( ə )r ə t( ə )li/",
+    "czech": "zoufale, hrozně",
+    "unit": 5
+  },
+  {
+    "english": "devote time",
+    "partOfSpeech": "phr",
+    "phonetics": "/d d ɪˌ v əʊ t  ˈ ta ɪ m/",
+    "czech": "věnovat čas",
+    "unit": 5
+  },
+  {
+    "english": "divorce",
+    "partOfSpeech": "n",
+    "phonetics": "/d ɪˈ v ɔː s/",
+    "czech": "rozvod",
+    "unit": 5
+  },
+  {
+    "english": "drop off",
+    "partOfSpeech": "phr v",
+    "phonetics": "/dr ɒ p  ˈɒ f/",
+    "czech": "spadnout s",
+    "unit": 5
+  },
+  {
+    "english": "fed up",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌ fed  ˈʌ p/",
+    "czech": "otrávený",
+    "unit": 5
+  },
+  {
+    "english": "fill out",
+    "partOfSpeech": "phr v",
+    "phonetics": "/f ɪ l  ˈ a ʊ t/",
+    "czech": "vyplnit",
+    "unit": 5
+  },
+  {
+    "english": "fridge",
+    "partOfSpeech": "n",
+    "phonetics": "/fr ɪ d ʒ /",
+    "czech": "lednička",
+    "unit": 5
+  },
+  {
+    "english": "get over",
+    "partOfSpeech": "phr v",
+    "phonetics": "/ ɡ et  ˈəʊ v ə (r)/",
+    "czech": "dostat se přes",
+    "unit": 5
+  },
+  {
+    "english": "giggle",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈɡɪɡ l/",
+    "czech": "chichotat se",
+    "unit": 5
+  },
+  {
+    "english": "hilarious",
+    "partOfSpeech": "adj",
+    "phonetics": "/h ɪˈ le ə ri ə s/",
+    "czech": "k popukání",
+    "unit": 5
+  },
+  {
+    "english": "hurt",
+    "partOfSpeech": "v",
+    "phonetics": "/h ɜː (r)t/",
+    "czech": "ublížit, zranit",
+    "unit": 5
+  },
+  {
+    "english": "ignore",
+    "partOfSpeech": "v",
+    "phonetics": "/ ɪɡˈ n ɔː (r)/",
+    "czech": "ignorovat",
+    "unit": 5
+  },
+  {
+    "english": "illegal",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ɪˈ li ːɡ l/",
+    "czech": "protiprávní",
+    "unit": 5
+  },
+  {
+    "english": "jar",
+    "partOfSpeech": "n",
+    "phonetics": "/d ʒɑː (r)/",
+    "czech": "sklenice",
+    "unit": 5
+  },
+  {
+    "english": "lecture",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ lekt ʃə (r)/",
+    "czech": "přednáška",
+    "unit": 5
+  },
+  {
+    "english": "lift",
+    "partOfSpeech": "n",
+    "phonetics": "/l ɪ ft/",
+    "czech": "svezení, svézt",
+    "unit": 5
+  },
+  {
+    "english": "lose (one's) patience",
+    "partOfSpeech": "phr",
+    "phonetics": "/lu ː z  ˈ pe ɪʃ ( ə )ns/",
+    "czech": "ztratit trpělivost",
+    "unit": 5
+  },
+  {
+    "english": "memory",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ mem ə ri/",
+    "czech": "paměť",
+    "unit": 5
+  },
+  {
+    "english": "military service",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ m ɪ l ə tri  ˈ s ɜː v ɪ s/",
+    "czech": "vojenská služba",
+    "unit": 5
+  },
+  {
+    "english": "moan",
+    "partOfSpeech": "v",
+    "phonetics": "/m m əʊ n/",
+    "czech": "stěžovat si, sténat, bědovat",
+    "unit": 5
+  },
+  {
+    "english": "needlework",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ ni ː dlw ɜː k/",
+    "czech": "šití",
+    "unit": 5
+  },
+  {
+    "english": "obligatory",
+    "partOfSpeech": "adj",
+    "phonetics": "/ əˈ bl ɪɡə tri/",
+    "czech": "povinný",
+    "unit": 5
+  },
+  {
+    "english": "passion",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ p æʃ n/",
+    "czech": "vášeň",
+    "unit": 5
+  },
+  {
+    "english": "pavement",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ pe ɪ vm ə nt/",
+    "czech": "chodník",
+    "unit": 5
+  },
+  {
+    "english": "pebbles",
+    "partOfSpeech": "n pl",
+    "phonetics": "/ ˈ peblz/",
+    "czech": "kamínky, oblázky",
+    "unit": 5
+  },
+  {
+    "english": "permanent",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ p ɜː (r)m ə n ə nt/",
+    "czech": "trvalý",
+    "unit": 5
+  },
+  {
+    "english": "pick up",
+    "partOfSpeech": "phr v",
+    "phonetics": "/p ɪ k  ˈʌ p/",
+    "czech": "zvednout, zdvihnout",
+    "unit": 5
+  },
+  {
+    "english": "pigeon",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ p ɪ d ʒ ( ə )n/",
+    "czech": "holub",
+    "unit": 5
+  },
+  {
+    "english": "prayer",
+    "partOfSpeech": "n",
+    "phonetics": "/pre ə (r)/",
+    "czech": "modlitba",
+    "unit": 5
+  },
+  {
+    "english": "privacy",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ pr ɪ v ə si/",
+    "czech": "soukromí",
+    "unit": 5
+  },
+  {
+    "english": "public",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ p ʌ bl ɪ k/",
+    "czech": "veřejnost",
+    "unit": 5
+  },
+  {
+    "english": "record",
+    "partOfSpeech": "v",
+    "phonetics": "/re ˈ k ɔː d/",
+    "czech": "nahrát",
+    "unit": 5
+  },
+  {
+    "english": "remote control",
+    "partOfSpeech": "n",
+    "phonetics": "/r ɪˈ m əʊ t k ə n ˈ tr əʊ l/",
+    "czech": "dálkové ovládání",
+    "unit": 5
+  },
+  {
+    "english": "represent",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˌ repr ɪˈ zent/",
+    "czech": "představovat",
+    "unit": 5
+  },
+  {
+    "english": "rescue",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ reskju ː /",
+    "czech": "zachránit",
+    "unit": 5
+  },
+  {
+    "english": "ridiculous",
+    "partOfSpeech": "adj",
+    "phonetics": "/r ɪˈ d ɪ kj ə l ə s/",
+    "czech": "směšný",
+    "unit": 5
+  },
+  {
+    "english": "rude",
+    "partOfSpeech": "adj",
+    "phonetics": "/ru ː d/",
+    "czech": "hrubý, neslušný",
+    "unit": 5
+  },
+  {
+    "english": "soak",
+    "partOfSpeech": "v",
+    "phonetics": "/s s əʊ k/",
+    "czech": "vsáknout",
+    "unit": 5
+  },
+  {
+    "english": "spill",
+    "partOfSpeech": "v",
+    "phonetics": "/sp ɪ l/",
+    "czech": "vylít",
+    "unit": 5
+  },
+  {
+    "english": "stationery",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ ste ɪʃə nri/",
+    "czech": "kancelářské / psací potřeby",
+    "unit": 5
+  },
+  {
+    "english": "stealing",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ sti ː l ɪŋ /",
+    "czech": "krádež",
+    "unit": 5
+  },
+  {
+    "english": "strictly",
+    "partOfSpeech": "adv",
+    "phonetics": "/ˈstrɪktli/",
+    "czech": "přísně",
+    "unit": 5
+  },
+  {
+    "english": "stuffy",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ st ʌ fi/",
+    "czech": "vydýchaný",
+    "unit": 5
+  },
+  {
+    "english": "temporary",
+    "partOfSpeech": "adj",
+    "phonetics": "/ˈtɛmpərəri/",
+    "czech": "přechodný, dočasný",
+    "unit": 5
+  },
+  {
+    "english": "tip",
+    "partOfSpeech": "n",
+    "phonetics": "/t ɪ p/",
+    "czech": "spropitné",
+    "unit": 5
+  },
+  {
+    "english": "try on",
+    "partOfSpeech": "phr v",
+    "phonetics": "/tra ɪ ˈɒ n/",
+    "czech": "vyzkoušet (si oblečení)",
+    "unit": 5
+  },
+  {
+    "english": "turn off",
+    "partOfSpeech": "phr v",
+    "phonetics": "/t ɜː n  ˈɒ f/",
+    "czech": "vypnout",
+    "unit": 5
+  },
+  {
+    "english": "typewriter",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ ta ɪ pra ɪ t ə (r)/",
+    "czech": "psací stroj",
+    "unit": 5
+  },
+  {
+    "english": "warranty",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ w ɒ r ə nti/",
+    "czech": "záruka",
+    "unit": 5
+  },
+  {
+    "english": "waterproof",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ w ɔː t ə pru ː f/",
+    "czech": "nepromokavý",
+    "unit": 5
+  },
+  {
+    "english": "accident",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈæ ks ɪ d ə nt/",
+    "czech": "nehoda",
+    "unit": 6
+  },
+  {
+    "english": "admire",
+    "partOfSpeech": "v",
+    "phonetics": "/ ə d ˈ ma ɪə (r)/",
+    "czech": "obdivovat",
+    "unit": 6
+  },
+  {
+    "english": "advert",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈæ dv ɜː t/",
+    "czech": "inzerát, reklama",
+    "unit": 6
+  },
+  {
+    "english": "agony",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈæɡə ni/",
+    "czech": "utrpení, muka",
+    "unit": 6
+  },
+  {
+    "english": "ambassador",
+    "partOfSpeech": "n",
+    "phonetics": "/ æ m ˈ b æ s ə d ə (r)/",
+    "czech": "velvyslanec",
+    "unit": 6
+  },
+  {
+    "english": "ant",
+    "partOfSpeech": "n",
+    "phonetics": "/ æ nt/",
+    "czech": "mravenec",
+    "unit": 6
+  },
+  {
+    "english": "appoint",
+    "partOfSpeech": "v",
+    "phonetics": "/ əˈ p ɔɪ nt/",
+    "czech": "jmenovat",
+    "unit": 6
+  },
+  {
+    "english": "assassinate",
+    "partOfSpeech": "v",
+    "phonetics": "/ əˈ s æ s ɪ ne ɪ t/",
+    "czech": "úkladně zavraždit",
+    "unit": 6
+  },
+  {
+    "english": "bamboo",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ b æ m ˈ bu ː /",
+    "czech": "bambus",
+    "unit": 6
+  },
+  {
+    "english": "barren",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ b æ r ə n/",
+    "czech": "pustý, neúrodný",
+    "unit": 6
+  },
+  {
+    "english": "blister",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ bl ɪ st ə (r)/",
+    "czech": "puchýř",
+    "unit": 6
+  },
+  {
+    "english": "bloody-mindedness",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ bl ʌ di  ˈ ma ɪ nd ɪ dn ə s/",
+    "czech": "zlovolnost",
+    "unit": 6
+  },
+  {
+    "english": "campaigner",
+    "partOfSpeech": "n",
+    "phonetics": "/k æ m ˈ pe ɪ n ə (r)/",
+    "czech": "aktivista, bojovník",
+    "unit": 6
+  },
+  {
+    "english": "cause",
+    "partOfSpeech": "n",
+    "phonetics": "/k ɔː z/",
+    "czech": "věc",
+    "unit": 6
+  },
+  {
+    "english": "chafing",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ t ʃ e ɪ f ɪŋ /",
+    "czech": "odřenina",
+    "unit": 6
+  },
+  {
+    "english": "challenge",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ t ʃæ l ɪ nd ʒ /",
+    "czech": "výzva",
+    "unit": 6
+  },
+  {
+    "english": "close",
+    "partOfSpeech": "adj",
+    "phonetics": "/kl əʊ s/",
+    "czech": "blízký",
+    "unit": 6
+  },
+  {
+    "english": "committed",
+    "partOfSpeech": "adj",
+    "phonetics": "/k k əˈ m ɪ t ɪ d/",
+    "czech": "zavázaný, oddaný",
+    "unit": 6
+  },
+  {
+    "english": "competitively",
+    "partOfSpeech": "adv",
+    "phonetics": "/k k ə m ˈ pet ə t ɪ vli/",
+    "czech": "závodně",
+    "unit": 6
+  },
+  {
+    "english": "conservation",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ k ɒ ns əˈ ve ɪʃ n/",
+    "czech": "ochrana",
+    "unit": 6
+  },
+  {
+    "english": "daring",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ de ə r ɪŋ /",
+    "czech": "odvážný",
+    "unit": 6
+  },
+  {
+    "english": "date",
+    "partOfSpeech": "v",
+    "phonetics": "/de ɪ t/",
+    "czech": "chodit (s někým)",
+    "unit": 6
+  },
+  {
+    "english": "decade",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ deke ɪ d/",
+    "czech": "desetiletí",
+    "unit": 6
+  },
+  {
+    "english": "diligently",
+    "partOfSpeech": "adv",
+    "phonetics": "/ ˈ d ɪ l ɪ d ʒə ntli/",
+    "czech": "pilně",
+    "unit": 6
+  },
+  {
+    "english": "donate",
+    "partOfSpeech": "v",
+    "phonetics": "/d əʊˈ ne ɪ t/",
+    "czech": "darovat, věnovat",
+    "unit": 6
+  },
+  {
+    "english": "duet",
+    "partOfSpeech": "n",
+    "phonetics": "/dju ˈ et/",
+    "czech": "duet(o), duo",
+    "unit": 6
+  },
+  {
+    "english": "equipment",
+    "partOfSpeech": "n",
+    "phonetics": "/ ɪˈ kw ɪ pm ə nt/",
+    "czech": "vybavení",
+    "unit": 6
+  },
+  {
+    "english": "explorer",
+    "partOfSpeech": "n",
+    "phonetics": "/ɪkˈsplɔːrə(r)/",
+    "czech": "badatel, průzkumník",
+    "unit": 6
+  },
+  {
+    "english": "extinct",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ɪ k ˈ st ɪŋ kt/",
+    "czech": "vyhynulý",
+    "unit": 6
+  },
+  {
+    "english": "formative",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ f ɔː m ə t ɪ v/",
+    "czech": "výchovný",
+    "unit": 6
+  },
+  {
+    "english": "fundamental",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌ f ʌ nd əˈ mentl/",
+    "czech": "zásadní",
+    "unit": 6
+  },
+  {
+    "english": "gangrene",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈɡæŋɡ ri ː n/",
+    "czech": "gangréna, sněť",
+    "unit": 6
+  },
+  {
+    "english": "gloomy",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈɡ lu ː mi/",
+    "czech": "pochmurný, ponurý",
+    "unit": 6
+  },
+  {
+    "english": "heartening",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ h ɑː tn ɪŋ /",
+    "czech": "povzbudivý, dodávající odvahu",
+    "unit": 6
+  },
+  {
+    "english": "hippy",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ h ɪ pi/",
+    "czech": "hippie, hipík",
+    "unit": 6
+  },
+  {
+    "english": "hooked",
+    "partOfSpeech": "adj",
+    "phonetics": "/h ʊ kt/",
+    "czech": "zapálený, závislý",
+    "unit": 6
+  },
+  {
+    "english": "horror",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ h ɒ r ə (r)/",
+    "czech": "hrůza",
+    "unit": 6
+  },
+  {
+    "english": "idiot",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈɪ di ə t/",
+    "czech": "idiot",
+    "unit": 6
+  },
+  {
+    "english": "indebted",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ɪ n ˈ det ɪ d/",
+    "czech": "zavázaný",
+    "unit": 6
+  },
+  {
+    "english": "issues",
+    "partOfSpeech": "n pl",
+    "phonetics": "/ ˈɪʃ u ː z/",
+    "czech": "věci, záležitosti",
+    "unit": 6
+  },
+  {
+    "english": "jockey",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ d ʒɒ ki/",
+    "czech": "žokej",
+    "unit": 6
+  },
+  {
+    "english": "lawyer",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ l ɔː j ə (r)/",
+    "czech": "právník",
+    "unit": 6
+  },
+  {
+    "english": "logger",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ l ɒɡə (r)/",
+    "czech": "dřevorubec",
+    "unit": 6
+  },
+  {
+    "english": "mischief",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ m ɪ st ʃɪ f/",
+    "czech": "uličnictví",
+    "unit": 6
+  },
+  {
+    "english": "misery",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ m ɪ z ə ri/",
+    "czech": "utrpení",
+    "unit": 6
+  },
+  {
+    "english": "niche",
+    "partOfSpeech": "n",
+    "phonetics": "/ni ːʃ /",
+    "czech": "nika",
+    "unit": 6
+  },
+  {
+    "english": "nomination",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ n ɒ m ɪˈ ne ɪʃ n/",
+    "czech": "nominace",
+    "unit": 6
+  },
+  {
+    "english": "optimism",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈɒ pt ɪ m ɪ z ə m/",
+    "czech": "optimismus",
+    "unit": 6
+  },
+  {
+    "english": "rebel",
+    "partOfSpeech": "v",
+    "phonetics": "/r ɪˈ bel/",
+    "czech": "vzbouřit se",
+    "unit": 6
+  },
+  {
+    "english": "resign",
+    "partOfSpeech": "v",
+    "phonetics": "/r ɪˈ za ɪ n/",
+    "czech": "odstoupit",
+    "unit": 6
+  },
+  {
+    "english": "restrictions",
+    "partOfSpeech": "n pl",
+    "phonetics": "/r ɪˈ str ɪ k ʃ nz/",
+    "czech": "omezení",
+    "unit": 6
+  },
+  {
+    "english": "retire",
+    "partOfSpeech": "v",
+    "phonetics": "/r ɪˈ ta ɪə (r)/",
+    "czech": "odejít do důchodu",
+    "unit": 6
+  },
+  {
+    "english": "sapling",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ s æ pl ɪŋ /",
+    "czech": "stromek",
+    "unit": 6
+  },
+  {
+    "english": "satisfied",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ s æ t ɪ sfa ɪ d/",
+    "czech": "spokojený",
+    "unit": 6
+  },
+  {
+    "english": "scales",
+    "partOfSpeech": "n pl",
+    "phonetics": "/ske ske ɪ lz/",
+    "czech": "váhy",
+    "unit": 6
+  },
+  {
+    "english": "seeds",
+    "partOfSpeech": "n pl",
+    "phonetics": "/si ː dz/",
+    "czech": "semena",
+    "unit": 6
+  },
+  {
+    "english": "separate",
+    "partOfSpeech": "v",
+    "phonetics": "/ˈsepəreɪt/",
+    "czech": "odloučit (se), oddělit",
+    "unit": 6
+  },
+  {
+    "english": "serial",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ s ɪə ri ə l/",
+    "czech": "seriál",
+    "unit": 6
+  },
+  {
+    "english": "shore",
+    "partOfSpeech": "n",
+    "phonetics": "/ ʃɔː (r)/",
+    "czech": "pobřeží",
+    "unit": 6
+  },
+  {
+    "english": "sled",
+    "partOfSpeech": "n",
+    "phonetics": "/sled/",
+    "czech": "sáně",
+    "unit": 6
+  },
+  {
+    "english": "snake",
+    "partOfSpeech": "n",
+    "phonetics": "/sne ɪ k/",
+    "czech": "had",
+    "unit": 6
+  },
+  {
+    "english": "soil",
+    "partOfSpeech": "n",
+    "phonetics": "/s ɔɪ l/",
+    "czech": "půda, zemina",
+    "unit": 6
+  },
+  {
+    "english": "star",
+    "partOfSpeech": "v",
+    "phonetics": "/st ɑː (r)/",
+    "czech": "hrát hlavní roli",
+    "unit": 6
+  },
+  {
+    "english": "sting",
+    "partOfSpeech": "v",
+    "phonetics": "/st ɪŋ /",
+    "czech": "štípnout, dát žihadlo",
+    "unit": 6
+  },
+  {
+    "english": "store",
+    "partOfSpeech": "v",
+    "phonetics": "/st ɔː (r)/",
+    "czech": "uložit, nahromadit",
+    "unit": 6
+  },
+  {
+    "english": "stubbornness",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ st ʌ b ə nn ə s/",
+    "czech": "tvrdohlavost, úpornost",
+    "unit": 6
+  },
+  {
+    "english": "summit",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ s ʌ m ɪ t/",
+    "czech": "vrcholná schůzka, summit",
+    "unit": 6
+  },
+  {
+    "english": "take shelter",
+    "partOfSpeech": "phr",
+    "phonetics": "/te ɪ k  ˈʃ elt ə (r)/",
+    "czech": "schovat se, uchýlit se",
+    "unit": 6
+  },
+  {
+    "english": "tirelessly",
+    "partOfSpeech": "adv",
+    "phonetics": "/ ˈ ta ɪə l ə sli/",
+    "czech": "neúnavně",
+    "unit": 6
+  },
+  {
+    "english": "transcendent",
+    "partOfSpeech": "adj",
+    "phonetics": "/tr æ n ˈ send ə nt/",
+    "czech": "mimořádný, nesrovnatelný",
+    "unit": 6
+  },
+  {
+    "english": "unconditionally",
+    "partOfSpeech": "adv",
+    "phonetics": "/ ˌʌ nk ə n ˈ d ɪʃə n ə li/",
+    "czech": "bezpodmínečně",
+    "unit": 6
+  },
+  {
+    "english": "urge",
+    "partOfSpeech": "n",
+    "phonetics": "/ ɜː d ʒ /",
+    "czech": "nutkání, nucení",
+    "unit": 6
+  },
+  {
+    "english": "utter",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈʌ t ə (r)/",
+    "czech": "absolutní, naprostý",
+    "unit": 6
+  },
+  {
+    "english": "vegetation",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ ved ʒəˈ te ɪʃ n/",
+    "czech": "vegetace",
+    "unit": 6
+  },
+  {
+    "english": "vocation",
+    "partOfSpeech": "n",
+    "phonetics": "/v v əʊˈ ke ɪʃ n/",
+    "czech": "poslání, povolání",
+    "unit": 6
+  },
+  {
+    "english": "whisper",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ w ɪ sp ə (r)/",
+    "czech": "(za)šeptat",
+    "unit": 6
+  },
+  {
+    "english": "advantage",
+    "partOfSpeech": "n",
+    "phonetics": "/ ə d ˈ vænt ɪ d ʒ /",
+    "czech": "výhoda",
+    "unit": 7
+  },
+  {
+    "english": "arrest",
+    "partOfSpeech": "v",
+    "phonetics": "/ əˈ rest/",
+    "czech": "zatknout",
+    "unit": 7
+  },
+  {
+    "english": "athletic",
+    "partOfSpeech": "adj",
+    "phonetics": "/ æθˈ let ɪ k/",
+    "czech": "atletický, sportovně založený",
+    "unit": 7
+  },
+  {
+    "english": "befriend",
+    "partOfSpeech": "v",
+    "phonetics": "/b ɪˈ frend/",
+    "czech": "spřátelit se",
+    "unit": 7
+  },
+  {
+    "english": "bite",
+    "partOfSpeech": "v",
+    "phonetics": "/ba ɪ t/",
+    "czech": "kousat",
+    "unit": 7
+  },
+  {
+    "english": "blow",
+    "partOfSpeech": "v",
+    "phonetics": "/bl əʊ /",
+    "czech": "foukat",
+    "unit": 7
+  },
+  {
+    "english": "boarding school",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ b ɔː d ɪŋ  sku ː l/",
+    "czech": "internátní škola",
+    "unit": 7
+  },
+  {
+    "english": "clap",
+    "partOfSpeech": "v",
+    "phonetics": "/kl æ p/",
+    "czech": "tleskat",
+    "unit": 7
+  },
+  {
+    "english": "climb",
+    "partOfSpeech": "v",
+    "phonetics": "/kla ɪ m/",
+    "czech": "vyšplhat",
+    "unit": 7
+  },
+  {
+    "english": "coincidence",
+    "partOfSpeech": "n",
+    "phonetics": "/k k əʊˈɪ ns ɪ d ə ns/",
+    "czech": "náhoda",
+    "unit": 7
+  },
+  {
+    "english": "common room",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ k ɒ m ə n ru ː m/",
+    "czech": "společná místnost",
+    "unit": 7
+  },
+  {
+    "english": "con",
+    "partOfSpeech": "n",
+    "phonetics": "/k ɒ n/",
+    "czech": "zápor, proti („pro a proti“)",
+    "unit": 7
+  },
+  {
+    "english": "corridor",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ k ɒ r ɪ d ɔː (r)/",
+    "czech": "chodba",
+    "unit": 7
+  },
+  {
+    "english": "curriculum",
+    "partOfSpeech": "n",
+    "phonetics": "/k k əˈ r ɪ kj ə l ə m/",
+    "czech": "kurikulum",
+    "unit": 7
+  },
+  {
+    "english": "depend on",
+    "partOfSpeech": "v",
+    "phonetics": "/d d ɪˈ pend  ɒ n/",
+    "czech": "záviset",
+    "unit": 7
+  },
+  {
+    "english": "disadvantage",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˌ d ɪ s ə d ˈ vænt ɪ d ʒ /",
+    "czech": "nevýhoda",
+    "unit": 7
+  },
+  {
+    "english": "disastrous",
+    "partOfSpeech": "adj",
+    "phonetics": "/d d ɪˈ z ɑː str ə s/",
+    "czech": "katastrofální",
+    "unit": 7
+  },
+  {
+    "english": "disgusting",
+    "partOfSpeech": "adj",
+    "phonetics": "/d d ɪ s ˈɡʌ st ɪŋ /",
+    "czech": "nechutný",
+    "unit": 7
+  },
+  {
+    "english": "dismal",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ d ɪ zm ə l/",
+    "czech": "deprimující",
+    "unit": 7
+  },
+  {
+    "english": "ditch",
+    "partOfSpeech": "n",
+    "phonetics": "/d ɪ t ʃ /",
+    "czech": "příkop",
+    "unit": 7
+  },
+  {
+    "english": "domestic science",
+    "partOfSpeech": "n",
+    "phonetics": "/d d əˌ mest ɪ k  ˈ sa ɪə ns/",
+    "czech": "nauka o domácnosti, provoz a údržbadomácnosti",
+    "unit": 7
+  },
+  {
+    "english": "dreadful",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ dredfl/",
+    "czech": "hrozný",
+    "unit": 7
+  },
+  {
+    "english": "dump",
+    "partOfSpeech": "v",
+    "phonetics": "/d ʌ mp/",
+    "czech": "pustit k vodě, nechat někoho",
+    "unit": 7
+  },
+  {
+    "english": "embarrassing",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ɪ m ˈ b æ r ə s ɪŋ /",
+    "czech": "trapný",
+    "unit": 7
+  },
+  {
+    "english": "endure",
+    "partOfSpeech": "v",
+    "phonetics": "/ ɪ n ˈ dj ʊə (r)/",
+    "czech": "vydržet",
+    "unit": 7
+  },
+  {
+    "english": "exile",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ eksa ɪ l/",
+    "czech": "vyhnat, poslat do exilu",
+    "unit": 7
+  },
+  {
+    "english": "fulfil",
+    "partOfSpeech": "v",
+    "phonetics": "/f f ʊ l ˈ f ɪ l/",
+    "czech": "splnit (si)",
+    "unit": 7
+  },
+  {
+    "english": "fuss",
+    "partOfSpeech": "n",
+    "phonetics": "/f ʌ s/",
+    "czech": "povyk",
+    "unit": 7
+  },
+  {
+    "english": "be grounded",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈɡ ra ʊ nd ɪ d/",
+    "czech": "mít zákaz vycházení, mít zaracha",
+    "unit": 7
+  },
+  {
+    "english": "hit",
+    "partOfSpeech": "v",
+    "phonetics": "/h ɪ t/",
+    "czech": "uhodit",
+    "unit": 7
+  },
+  {
+    "english": "homesick",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ h əʊ ms ɪ k/",
+    "czech": "pociťující stesk po domově",
+    "unit": 7
+  },
+  {
+    "english": "hug",
+    "partOfSpeech": "v",
+    "phonetics": "/h ʌɡ /",
+    "czech": "obejmout",
+    "unit": 7
+  },
+  {
+    "english": "infection",
+    "partOfSpeech": "n",
+    "phonetics": "/ ɪ n ˈ fek ʃ n/",
+    "czech": "infekce",
+    "unit": 7
+  },
+  {
+    "english": "ironically",
+    "partOfSpeech": "adv",
+    "phonetics": "/a ɪˈ r ɒ n ɪ kli/",
+    "czech": "paradoxně",
+    "unit": 7
+  },
+  {
+    "english": "kick",
+    "partOfSpeech": "v",
+    "phonetics": "/k ɪ k/",
+    "czech": "kopnout, nakopnout",
+    "unit": 7
+  },
+  {
+    "english": "kick off",
+    "partOfSpeech": "phr v",
+    "phonetics": "/k ɪ k  ˈɒ f/",
+    "czech": "hádat se",
+    "unit": 7
+  },
+  {
+    "english": "kneel",
+    "partOfSpeech": "v",
+    "phonetics": "/ni ː l/",
+    "czech": "kleknout si",
+    "unit": 7
+  },
+  {
+    "english": "ladder",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ l æ d ə (r)/",
+    "czech": "žebřík",
+    "unit": 7
+  },
+  {
+    "english": "lick",
+    "partOfSpeech": "v",
+    "phonetics": "/l ɪ k/",
+    "czech": "olizovat",
+    "unit": 7
+  },
+  {
+    "english": "loathe",
+    "partOfSpeech": "v",
+    "phonetics": "/l l əʊθ /",
+    "czech": "nenávidět, nesnášet",
+    "unit": 7
+  },
+  {
+    "english": "march",
+    "partOfSpeech": "v",
+    "phonetics": "/m ɑː t ʃ /",
+    "czech": "pochodovat",
+    "unit": 7
+  },
+  {
+    "english": "nail",
+    "partOfSpeech": "n",
+    "phonetics": "/ne ɪ l/",
+    "czech": "hřebík",
+    "unit": 7
+  },
+  {
+    "english": "nails",
+    "partOfSpeech": "n pl",
+    "phonetics": "/ne ɪ lz/",
+    "czech": "nehty",
+    "unit": 7
+  },
+  {
+    "english": "neglect",
+    "partOfSpeech": "v",
+    "phonetics": "/n n ɪˈɡ lekt/",
+    "czech": "zanedbat, zanedbávat",
+    "unit": 7
+  },
+  {
+    "english": "nerdy",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ n ɜː di/",
+    "czech": "nerd, mimoň, šprt",
+    "unit": 7
+  },
+  {
+    "english": "overall",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌəʊ v ə r ˈɔː l/",
+    "czech": "celkově",
+    "unit": 7
+  },
+  {
+    "english": "overseas",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˌəʊ v əˈ si ː z/",
+    "czech": "zahraničí",
+    "unit": 7
+  },
+  {
+    "english": "persuade",
+    "partOfSpeech": "v",
+    "phonetics": "/p p əˈ swe ɪ d/",
+    "czech": "přesvědčit",
+    "unit": 7
+  },
+  {
+    "english": "point",
+    "partOfSpeech": "v",
+    "phonetics": "/p p ɔɪ nt/",
+    "czech": "mířit",
+    "unit": 7
+  },
+  {
+    "english": "pray",
+    "partOfSpeech": "v",
+    "phonetics": "/pre ɪ /",
+    "czech": "modlit se",
+    "unit": 7
+  },
+  {
+    "english": "pressurize",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ pre ʃə ra ɪ z/",
+    "czech": "tlačit na (někoho)",
+    "unit": 7
+  },
+  {
+    "english": "pro",
+    "partOfSpeech": "n",
+    "phonetics": "/pr pr əʊ /",
+    "czech": "klad, pro („pro a proti“)",
+    "unit": 7
+  },
+  {
+    "english": "pupil",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ pju ː pl/",
+    "czech": "žák",
+    "unit": 7
+  },
+  {
+    "english": "remarkable",
+    "partOfSpeech": "adj",
+    "phonetics": "/r r ɪˈ m ɑː k ə bl/",
+    "czech": "pozoruhodný",
+    "unit": 7
+  },
+  {
+    "english": "retirement home",
+    "partOfSpeech": "n",
+    "phonetics": "/r r ɪˈ ta ɪə m ə nt  ˌ h əʊ m/",
+    "czech": "domov důchodců / pro seniory",
+    "unit": 7
+  },
+  {
+    "english": "revise",
+    "partOfSpeech": "v",
+    "phonetics": "/r r ɪˈ va ɪ z/",
+    "czech": "opakovat si učivo",
+    "unit": 7
+  },
+  {
+    "english": "rifle",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ ra ɪ fl/",
+    "czech": "puška",
+    "unit": 7
+  },
+  {
+    "english": "risk-taking",
+    "partOfSpeech": "n",
+    "phonetics": "/ ˈ r ɪ sk te ɪ k ɪŋ /",
+    "czech": "riskování, podstupování rizik",
+    "unit": 7
+  },
+  {
+    "english": "rounded",
+    "partOfSpeech": "adj",
+    "phonetics": "/ ˈ ra ʊ nd ɪ d/",
+    "czech": "vyzrálý, všestranný",
+    "unit": 7
+  },
+  {
+    "english": "rug",
+    "partOfSpeech": "n",
+    "phonetics": "/r ʌɡ /",
+    "czech": "deka",
+    "unit": 7
+  },
+  {
+    "english": "score",
+    "partOfSpeech": "v",
+    "phonetics": "/sk sk ɔː (r)/",
+    "czech": "získat hodnocení",
+    "unit": 7
+  },
+  {
+    "english": "scratch",
+    "partOfSpeech": "v",
+    "phonetics": "/skr skr æ t ʃ /",
+    "czech": "škrábat",
+    "unit": 7
+  },
+  {
+    "english": "shudder",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈʃʌ d ə (r)/",
+    "czech": "otřást (se)",
+    "unit": 7
+  },
+  {
+    "english": "skill",
+    "partOfSpeech": "n",
+    "phonetics": "/sk ɪ l/",
+    "czech": "dovedost",
+    "unit": 7
+  },
+  {
+    "english": "stare",
+    "partOfSpeech": "v",
+    "phonetics": "/ste ə (r)/",
+    "czech": "zírat, upřeně hledět",
+    "unit": 7
+  },
+  {
+    "english": "swot",
+    "partOfSpeech": "n",
+    "phonetics": "/sw ɒ t/",
+    "czech": "šprt, bifloun",
+    "unit": 7
+  },
+  {
+    "english": "whistle",
+    "partOfSpeech": "v",
+    "phonetics": "/ ˈ w ɪ sl/",
+    "czech": "hvízdat",
+    "unit": 7
+  }
+]
