@@ -1,10 +1,11 @@
 <script setup>
 import router from './router';
-
+import { Analytics } from '@vercel/analytics/vue';
 
 </script>
 
 <template>
+   <Analytics />
   <header>
   
 
