@@ -6,17 +6,21 @@ import CustomSelect from '@/components/CustomSelect.vue';
 import 'primeicons/primeicons.css'
 
 import allWords from '../assets/words.json'
+import isFlipped from '../components/Word.vue'
+
 const route = useRoute();
 const unitNumber = route.params.unitNumber;
 
 
-const currWordIndex =ref(1);
+const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 
 
 const settingsDisplay = ref(false);
 const savedVal = localStorage.getItem('mujUlozenyJazyk')
+const savedIndex = localStorage.getItem(`unit${unitNumber}`)
 
+const currWordIndex =ref(savedIndex || 1);
 
 function restartCards(){
     currWordIndex.value = 1;
@@ -26,27 +30,35 @@ function restartCards(){
 
 const choosenLang =  ref(savedVal || 'Angličtina')
 watch(choosenLang, (novyJazyk) => {
-  // Jakmile uživatel jazyk změní, rovnou ho zapíšeme do sešitu
+
   localStorage.setItem('mujUlozenyJazyk', novyJazyk)
   
 })
+
+watch(currWordIndex, (novyIndex) => {
+    localStorage.setItem(`unit${unitNumber}`, novyIndex)
+})
+
 const wordsForUnit = computed(() => {
-  // Z URL adresy získáme číslo (je to text, proto ho funkcí Number() převedeme na číslo)
+
  
   
-  // Vyfiltrujeme z toho velkého JSONu jen ty záznamy, kde 'unit' sedí s naší lekcí
+ 
   return allWords.filter(slovo => slovo.unit === Number(unitNumber));
 })
 const wordsCount = computed(() => wordsForUnit.value.length);
 const currWord = computed(() => wordsForUnit.value[currWordIndex.value-1])
 
 function next(){
+    
     if(currWordIndex.value < wordsCount.value){
+        
         currWordIndex.value++;
     }
     else{
         currWordIndex.value = 1;
     }
+   
 
 }
 function previous(){
@@ -61,8 +73,8 @@ function previous(){
 <template>
   <h1>Slovíčka pro Unit {{ unitNumber }}</h1>
     <main>
-         <p>{{ currWordIndex }}/{{ wordsCount }}</p>
-        <Word :english="currWord.english" :czech="currWord.czech" :phonetics="currWord.phonetics" :language= "choosenLang" />
+        <p class="counter">{{ currWordIndex }}/{{ wordsCount }}</p>
+        <Word :key="currWordIndex" :english="currWord.english" :czech="currWord.czech" :phonetics="currWord.phonetics" :language= "choosenLang" />
 
         <div class="controls">
             
@@ -70,7 +82,7 @@ function previous(){
               <button class="close" @click="settingsDisplay = false"><i  class="pi pi-times"></i></button>
 
             <h2>Nastavení</h2>
-            <p>Zde můžete upravit nastavení procvičování.</p>
+           
             <div class="side-opt"> <label for="front">Přední strana</label>
                 <CustomSelect 
       v-model="choosenLang" 
@@ -160,4 +172,28 @@ select{
     align-items: center;
     justify-content: center;
 }
+
+
+@media (max-width: 768px) {
+    .counter{
+       
+        text-align: center;
+    }
+    .settings{
+        width: 90%;
+       
+    }
+.side-opt{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+.close{
+    top: 0;
+    right: 0;
+}
+  
+}
+
 </style>

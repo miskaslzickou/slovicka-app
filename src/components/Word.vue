@@ -12,7 +12,10 @@ const isFlipped= ref(props.language == 'Čeština' ? true : false) ;
 watch(() => props.language, (novaHodnota) => {
   isFlipped.value = novaHodnota === 'Čeština';
 })
-// Proměnná si pamatuje, jestli je karta otočená
+watch(() => props.english, () => {
+  isFlipped.value = props.language === 'Čeština';
+})
+
 
 </script>
 
@@ -60,6 +63,17 @@ watch(() => props.language, (novaHodnota) => {
   transform: rotateY(180deg);
 }
 
+@media (max-width: 768px) {
+  .flip-container {
+    max-width: 50%;
+    
+    padding: 20px; /* Zmenšíme vnitřní okraje */
+    font-size: 1.1rem; /* Zmenšíme písmo, aby se vešlo */
+    
+  }
+}
+
+
 /* 3. Společné vlastnosti pro přední i zadní stranu */
 .front, .back {
   width: 100%;
@@ -102,4 +116,5 @@ watch(() => props.language, (novaHodnota) => {
   font-weight: bold;
   font-size: 2.2em;
 }
+
 </style>

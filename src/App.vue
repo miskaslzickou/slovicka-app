@@ -32,6 +32,7 @@ header {
   position: sticky;
   top: 0;
   width: 100%;
+
   z-index: 10;
   background: var(--color-background);
   border-bottom: 1px solid var(--color-border);
@@ -79,4 +80,5 @@ main {
    font-size: 2em;
   }
 }
+
 </style>
