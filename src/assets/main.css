@@ -17,7 +17,7 @@ a,
 
 html,body{
   overflow-x: hidden;
-  overflow-y: hidden;
+  
 }
 
 @media (hover: hover) {
